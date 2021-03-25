@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korpus>
+<text name="jk0.1">robot go to the table and grab the plant
+  <wsd position="0" word="robot" meaning="robot"/>
+  <wsd position="4" word="table" meaning="table (furniture)"/>
+  <wsd position="8" word="plant" meaning="plant"/>
+</text>
+<text name="1.1">okay Armar go to the table grab popcorn come to me give me the popcorn which is in your hand
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+	<wsd position="14" word="popcorn" meaning="popcorn"/>
+	<wsd position="19" word="hand" meaning="hand"/>
+</text>
+<text name="1.2">okay Armar go to the table take the green cup go to the dishwasher open it put the green cup into the dishwasher and close it
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="cup" meaning="cup"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="19" word="cup" meaning="cup"/>
+	<wsd position="22" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="1.3">okay Armar go to the fridge open it look for the orange juice and take it close the fridge and bring the juice to me
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="12" word="juice" meaning="juice"/>
+	<wsd position="18" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="22" word="juice" meaning="juice"/>
+</text>
+<text name="2.1">Armar can you please bring me the popcorn bag
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="bag" meaning="bag"/>
+</text>
+<text name="2.2">Armar please put the green cup into the dishwasher and do not forget to close it afterwards
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="8" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="2.3">Armar I would like to have the orange juice you can find it in the fridge somewhere in the front
+	<wsd position="7" word="orange" meaning="orange (fruit)"/>
+	<wsd position="8" word="juice" meaning="juice"/>
+	<wsd position="15" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="19" word="front" meaning="?"/>
+</text>
+<text name="3.1">Armar could you bring me the popcorn from the kitchen table please
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="kitchen" meaning="kitchen"/>
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+</text>
+<text name="3.2">Armar could you please take the green cup from the kitchen table and then move to the dishwasher and open it and then put the cup into the dishwasher and close it again
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="10" word="kitchen" meaning="kitchen"/>
+	<wsd position="11" word="table" meaning="table (furniture)"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="25" word="cup" meaning="cup"/>
+	<wsd position="28" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="3.3">Armar would you please go to the fridge and open it take out the orange juice and bring it to me
+	<wsd position="7" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="14" word="orange" meaning="orange (fruit)"/>
+	<wsd position="15" word="juice" meaning="juice"/>
+</text>
+<text name="4.1">Hey Armar can you go to the table and grab me the popcorn bag please and then yeah can you bring it back to me
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="popcorn" meaning="popcorn"/>
+	<wsd position="13" word="bag" meaning="bag"/>
+</text>
+<text name="4.2">Hey Armar can you please go to the table and grab the green cup and then can you go to the dishwasher put it in the dishwasher close the dishwasher and come back
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+	<wsd position="13" word="cup" meaning="cup"/>
+	<wsd position="21" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="26" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="29" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="4.3">Hey Armar can you please go to the fridge open it grab me the orange juice and then close the fridge and bring the orange juice to me please
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="14" word="orange" meaning="orange (fruit)"/>
+	<wsd position="15" word="juice" meaning="juice"/>
+	<wsd position="20" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="24" word="orange" meaning="orange (fruit)"/>
+	<wsd position="25" word="juice" meaning="juice"/>
+</text>
+<text name="5.1">Hey Armar go to kitchen table take the popcorn bag and bring it to me
+	<wsd position="4" word="kitchen" meaning="kitchen"/>
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="bag" meaning="bag"/>
+</text>
+<text name="5.2">hey Armar go to the kitchen table and take the green cup then go to the dishwasher and put the cup in it
+	<wsd position="5" word="kitchen" meaning="kitchen"/>
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="11" word="cup" meaning="cup"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="20" word="cup" meaning="cup"/>
+</text>
+<text name="5.3">hey Armar go to fridge and take the orange juice then bring it to me
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+</text>
+<text name="6.1">Armar please bring me the popcorn bag from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="6" word="bag" meaning="bag"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="6.2">Armar put the green cup from the table to the dishwasher then close it
+	<wsd position="4" word="cup" meaning="cup"/>
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="6.3">Armar open the fridge and bring me the orange juice
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+</text>
+<text name="7.1">Can you grab me the box of popcorn on the table it is next to the cereal box
+	<wsd position="5" word="box" meaning="box"/>
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+	<wsd position="16" word="cereal" meaning="cereal"/>
+	<wsd position="17" word="box" meaning="box"/>
+</text>
+<text name="7.2">Can you please put the green cup on the table in the dishwasher and please do not forget to close the dishwasher afterwards
+	<wsd position="6" word="cup" meaning="cup"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="21" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="7.3">Can you please bring me the orange juice from the fridge please
+	<wsd position="6" word="orange" meaning="orange (fruit)"/>
+	<wsd position="7" word="juice" meaning="juice"/>
+	<wsd position="10" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="8.1">Hey Armar bring me the popcorn bag from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="6" word="bag" meaning="bag"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="8.2">Hey Armar get the green cup from the table and put it in the dishwasher
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="8.3">Hey Armar open the fridge get the orange juice and bring it to me
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="7" word="orange" meaning="orange (fruit)"/>
+	<wsd position="8" word="juice" meaning="juice"/>
+</text>
+<text name="9.1">Please go to the kitchen table and pick up the popcorn bag and bring it to me
+	<wsd position="4" word="kitchen" meaning="kitchen"/>
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="popcorn" meaning="popcorn"/>
+	<wsd position="11" word="bag" meaning="bag"/>
+</text>
+<text name="9.2">Please go to the kitchen table and pick up the green cup take it to the dishwasher and put it in the upper shelf afterwards close the dishwasher
+	<wsd position="4" word="kitchen" meaning="kitchen"/>
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="11" word="cup" meaning="cup"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="23" word="shelf" meaning="shelf (storage)"/>
+	<wsd position="27" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="9.3">Go to the fridge and open the door take out the orange juice and close the door again bring it to me
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="7" word="door" meaning="door"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="12" word="juice" meaning="juice"/>
+	<wsd position="16" word="door" meaning="door"/>
+</text>
+<text name="10.1">Can you bring me the popcorn from the kitchen table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="kitchen" meaning="kitchen"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="10.2">Can you put the green cup from the kitchen table in the dishwasher
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="8" word="kitchen" meaning="kitchen"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="10.3">Can you bring me the orange juice from the fridge
+	<wsd position="5" word="orange" meaning="orange (fruit)"/>
+	<wsd position="6" word="juice" meaning="juice"/>
+	<wsd position="9" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="11.1">Hey Armar please go to the kitchen table on the right side and hand me the popcorn
+	<wsd position="6" word="kitchen" meaning="kitchen"/>
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="16" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="11.2">Hey Armar please take the green cup open the dishwasher and put the green cup in the dishwasher and then close the dishwasher again
+	<wsd position="6" word="cup" meaning="cup"/>
+	<wsd position="9" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="14" word="cup" meaning="cup"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="22" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="11.3">Hey Armar go to the fridge open the fridge take the orange juice close the fridge and then bring me the orange juice
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="12" word="juice" meaning="juice"/>
+	<wsd position="15" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="21" word="orange" meaning="orange (fruit)"/>
+	<wsd position="22" word="juice" meaning="juice"/>
+</text>
+<text name="12.1">okay go to the kitchen table ehm get the popcorn and bring it to me
+	<wsd position="4" word="kitchen" meaning="kitchen"/>
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="12.2">uhm go to the table uhm take the green cup uhm then go to the dishwasher open the dishwasher uhm put the green green cup ehm in the dishwasher and close the dishwasher
+	<wsd position="4" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="cup" meaning="cup"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="18" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="24" word="cup" meaning="cup"/>
+	<wsd position="28" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="32" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="12.3">uhm go to to the fridge open the fridge uhm get the orange juice uhm close the fridge uhm bring the orange juice to me
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="orange" meaning="orange (fruit)"/>
+	<wsd position="13" word="juice" meaning="juice"/>
+	<wsd position="17" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="21" word="orange" meaning="orange (fruit)"/>
+	<wsd position="22" word="juice" meaning="juice"/>
+</text>
+<text name="13.1">go to the table in front of the window and take the popcorn and bring it to me
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="5" word="front" meaning="?"/>
+	<wsd position="8" word="window" meaning="window"/>
+	<wsd position="12" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="13.2">go to the table and take the green cup then bring the cup to the dishwasher first open the dishwasher put the cup inside it and then close the dishwasher
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="cup" meaning="cup"/>
+	<wsd position="12" word="cup" meaning="cup"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="19" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="22" word="cup" meaning="cup"/>
+	<wsd position="29" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="13.3">go to the fridge open the fridge and take the orange juice bring the orange juice to me please
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="10" word="orange" meaning="orange (fruit)"/>
+	<wsd position="11" word="juice" meaning="juice"/>
+	<wsd position="14" word="orange" meaning="orange (fruit)"/>
+	<wsd position="15" word="juice" meaning="juice"/>
+</text>
+<text name="14.1">hey armar go to the table grab the popcorn and bring it to me
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="14.2">hey armar go to the table grab the green cup and put it in the dishwasher
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="cup" meaning="cup"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="14.3">hey armar go to the fridge open the fridge take the orange juice close the fridge and bring the orange juice to me
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="12" word="juice" meaning="juice"/>
+	<wsd position="15" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="19" word="orange" meaning="orange (fruit)"/>
+	<wsd position="20" word="juice" meaning="juice"/>
+</text>
+<text name="15.1">go to the table and grab the popcorn bag
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="bag" meaning="bag"/>
+</text>
+<text name="15.2">go to the table grab the green cup turn and go to the dishwasher if it is closed please open it find a free place put the green cup into it and close the dishwasher
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="24" word="place" meaning="?"/>
+	<wsd position="28" word="cup" meaning="cup"/>
+	<wsd position="34" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="15.3">go to the fridge open it if it is closed searched the orange juice and grab it pull it out of the fridge and close the door
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="orange" meaning="orange (fruit)"/>
+	<wsd position="13" word="juice" meaning="juice"/>
+	<wsd position="22" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="26" word="door" meaning="door"/>
+</text>
+<text name="16.1">Armar go to the table and give me the popcorn bag
+	<wsd position="4" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="popcorn" meaning="popcorn"/>
+	<wsd position="10" word="bag" meaning="bag"/>
+</text>
+<text name="16.2">armar go to the table take the green cup put it into the dishwasher close the dishwasher
+	<wsd position="4" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="cup" meaning="cup"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="16.3">Armar go to the fridge uhm take the orange juice from it and give it to me
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+</text>
+<text name="17.1">Armar would you please pass me the popcorn
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="17.2">Armar could you please clean up the the table and put the green cup in the dishwasher
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+	<wsd position="13" word="cup" meaning="cup"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="17.3">Armar could you bring me the orange juice it is stored in the fridge
+	<wsd position="6" word="orange" meaning="orange (fruit)"/>
+	<wsd position="7" word="juice" meaning="juice"/>
+	<wsd position="13" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="18.1">go to the table take the popcorn give it to me
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="18.2">hello Armar could you go to the table and take the green cup please put it in the dishwasher and close it
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="cup" meaning="cup"/>
+	<wsd position="18" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="18.3">Armar go to the fridge open the door take a orange juice close the door and take it to me
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="7" word="door" meaning="door"/>
+	<wsd position="10" word="orange" meaning="orange (fruit)"/>
+	<wsd position="11" word="juice" meaning="juice"/>
+	<wsd position="14" word="door" meaning="door"/>
+</text>
+<text name="19.1">can you please give me the popcorn it is uhm in front of you on the table
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="11" word="front" meaning="?"/>
+	<wsd position="16" word="table" meaning="table (furniture)"/>
+</text>
+<text name="19.2">can you please take the green cup from the table and put it in the dishwasher
+	<wsd position="6" word="cup" meaning="cup"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="19.3">please handle me the orange juice from the fridge
+	<wsd position="4" word="orange" meaning="orange (fruit)"/>
+	<wsd position="5" word="juice" meaning="juice"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="20.1">hey Armar go and get the popcorn bag for me please
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="7" word="bag" meaning="bag"/>
+</text>
+<text name="20.2">Armar put the green cup into the dishwasher
+	<wsd position="4" word="cup" meaning="cup"/>
+	<wsd position="7" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="20.3">Armar go to the fridge and get me orange juice
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+</text>
+<text name="21.1">can you bring me the popcorn from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+</text>
+<text name="21.2">can you put the green cup into the dishwasher
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="8" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="21.3a">can you bring me the orange juice from the fridge
+	<wsd position="5" word="orange" meaning="orange (fruit)"/>
+	<wsd position="6" word="juice" meaning="juice"/>
+	<wsd position="9" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="21.3b">Armar I am thursty please go to the fridge open it eh and scan for the orange juice it should be in front of you then grab it then close the fridge and eh turn over and come here and hand it to me
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="16" word="orange" meaning="orange (fruit)"/>
+	<wsd position="17" word="juice" meaning="juice"/>
+	<wsd position="22" word="front" meaning="?"/>
+	<wsd position="31" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="22.1">hello Armar uhm I need some popcorn could you please go to the table grab the popcorn box turn to turn to me and then come back and hand it to me
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="13" word="table" meaning="table (furniture)"/>
+	<wsd position="16" word="popcorn" meaning="popcorn"/>
+	<wsd position="17" word="box" meaning="box"/>
+</text>
+<text name="22.2">Armar eh please go to the table find the green cup ehm it is between the boxes then grab it go to the dishwasher and put the cup inside and then eh close the dishwasher turn it on
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="cup" meaning="cup"/>
+	<wsd position="16" word="boxes" meaning="box"/>
+	<wsd position="23" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="27" word="cup" meaning="cup"/>
+	<wsd position="34" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="22.3">Armar I am thursty please go to the fridge open it eh and scan for the orange juice it should be in front of you then grab it then close the fridge and eh turn over and come here and hand it to me
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="16" word="orange" meaning="orange (fruit)"/>
+	<wsd position="17" word="juice" meaning="juice"/>
+	<wsd position="22" word="front" meaning="?"/>
+	<wsd position="31" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="if.4.1">hey armar could you please have a look at these dishes if they are dirty put them into the dishwasher if they are not dirty put them into the cupboard
+	<wsd position="7" word="look" meaning="?"/> <!-- ? -->
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="19" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="29" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.2">hey armar could you please have a look at the table if there are dirty dishes put them in the dishwasher if they are clean put them in the cupboard
+	<wsd position="7" word="look" meaning="?"/> <!-- ? -->
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+	<wsd position="15" word="dishes" meaning="dishware"/>
+	<wsd position="20" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="29" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.3">armar please check the table if there are any dirty dishes if there are dirty dishes please put them in the dishwasher if there are clean dishes please put them in the cupboards
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="15" word="dishes" meaning="dishware"/>
+	<wsd position="21" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="26" word="dishes" meaning="dishware"/>
+	<wsd position="32" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.4">ok hey armar if the dishes are dirty please put them into the dishwasher otherwise put them into the cupboard
+	<wsd position="5" word="dishes" meaning="dishware"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="19" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.5">hello armar look at the table there are dishes if they are dirty put them into the dishwasher and if they are clean put them into the cupboard
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="dishes" meaning="dishware"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="27" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.6">armar look on the kitchen table if there is dirty dishes on it please put them into dishwasher if they are clean put them into the cupboard
+	<wsd position="4" word="kitchen" meaning="kitchen"/>
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="26" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.7">hello can you please take the dirty dishes and put it into the dishwasher and the clean ones you take into the cupboard
+	<wsd position="7" word="dishes" meaning="dishware"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="17" word="ones" meaning="one (pronoun)"/><!-- "ones"? -->
+	<wsd position="22" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.8">hello armar could you please put the dirty dishes into the dishwasher and the clean dishes up into the cupboard
+	<wsd position="8" word="dishes" meaning="dishware"/>
+	<wsd position="11" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="15" word="dishes" meaning="dishware"/>
+	<wsd position="19" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.9">hey armar look at the kitchen table if the dishes are dirty put them into the dishwasher and if the dishes are clean put them into the cupboard
+	<wsd position="5" word="kitchen" meaning="kitchen"/>
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="dishes" meaning="dishware"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="20" word="dishes" meaning="dishware"/>
+	<wsd position="27" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.10">robo go to the table if there are any dirty dishes grab the dirty dishes and go to the dishwasher open the dishwasher and put the dirty dishes into the dishwasher close the dishwasher and return to the table if there are any clean dishes grab the clean dishes and go to the cupboard open the cupboard and put the clean dishes into the cupboard
+	<wsd position="4" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="14" word="dishes" meaning="dishware"/>
+	<wsd position="19" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="22" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="27" word="dishes" meaning="dishware"/>
+	<wsd position="30" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="33" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="38" word="table" meaning="table (furniture)"/>
+	<wsd position="44" word="dishes" meaning="dishware"/>
+	<wsd position="48" word="dishes" meaning="dishware"/>
+	<wsd position="53" word="cupboard" meaning="cupboard"/>
+	<wsd position="56" word="cupboard" meaning="cupboard"/>
+	<wsd position="61" word="dishes" meaning="dishware"/>
+	<wsd position="64" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.11">please go to the table if there is dirty dishes put it into the dishwasher if the dishes is clean please put it to the cupboard
+	<wsd position="4" word="table" meaning="table (furniture)"/>
+	<wsd position="9" word="dishes" meaning="dishware"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="17" word="dishes" meaning="dishware"/>
+	<wsd position="25" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.12">hello armar go to the kitchen table please check if there are some dirty dishes on the table if there are some put them in the dishwasher if there are not dirty put them in the cupboard
+	<wsd position="5" word="kitchen" meaning="kitchen"/>
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="14" word="dishes" meaning="dishware"/>
+	<wsd position="17" word="table" meaning="table (furniture)"/>
+	<wsd position="26" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="36" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.13">put the dirty dishes into the dishwasher and the clean dishes in the cupboard above the dishwasher
+	<wsd position="3" word="dishes" meaning="dishware"/>
+	<wsd position="6" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="13" word="cupboard" meaning="cupboard"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="if.4.14">hi armar please go to the table and take all the dirty dishes into the dishwasher the clean dishes should go to the cupboard
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="dishes" meaning="dishware"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="18" word="dishes" meaning="dishware"/>
+	<wsd position="23" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.15">hi robo please look at the table if there are dirty dishes please put it in the dishwasher and if there are clean dishes put it in the cupboard
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="11" word="dishes" meaning="dishware"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="23" word="dishes" meaning="dishware"/>
+	<wsd position="28" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.16">hello armar have a look at the table if you find dirty dishes put them into the dishwasher and if there are clean please store them in the cupboard
+	<wsd position="4" word="look" meaning="?"/> <!-- ? -->
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="dishes" meaning="dishware"/>
+	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="26" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.17">armar please look on the table if you see dirty dishes please put them into the dishwasher if you see clean dishes put it into the cupboard
+	<wsd position="5" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishes" meaning="dishware"/>
+	<wsd position="16" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="21" word="dishes" meaning="dishware"/>
+	<wsd position="26" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.18">armar could you go to the table and if there are dirty dishes put the dirty dishes in the dishwasher and the clean dishes in the cupboard please
+	<wsd position="6" word="table" meaning="table (furniture)"/>
+	<wsd position="12" word="dishes" meaning="dishware"/>
+	<wsd position="16" word="dishes" meaning="dishware"/>
+	<wsd position="19" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="23" word="dishes" meaning="dishware"/>
+	<wsd position="26" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.4.19">look at the table take an object if it is dirty put it in the dishwasher and if it is dirty put it in the cupboard
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="6" word="object" meaning="object (philosophy)"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="25" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="if.5.1">hey armar could you please open the fridge if there are fresh oranges bring them with the vodka else bring the orange juice and the vodka
+	<wsd position="7" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="17" word="vodka" meaning="vodka"/>
+	<wsd position="21" word="orange" meaning="orange (fruit)"/>
+	<wsd position="22" word="juice" meaning="juice"/>
+	<wsd position="25" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.2">armar please have a look into the fridge if there are fresh oranges bring them alongside with the vodka else please bring orange juice
+	<wsd position="4" word="look" meaning="?"/> <!-- ? -->
+	<wsd position="7" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="18" word="vodka" meaning="vodka"/>
+	<wsd position="22" word="orange" meaning="orange (fruit)"/>
+	<wsd position="23" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.3">armar please check if there are any fresh oranges in the fridge then bring them to me together with vodka if there are no fresh oranges please bring me some oranges juice
+	<wsd position="8" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="11" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="19" word="vodka" meaning="vodka"/>
+	<wsd position="25" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="30" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="31" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.4">go to the fridge and bring me some fresh oranges otherwise get me some orange juice and the vodka please
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="9" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="14" word="orange" meaning="orange (fruit)"/>
+	<wsd position="15" word="juice" meaning="juice"/>
+	<wsd position="18" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.5">hello armar I want to make some drinks go to the fridge and if there fresh oranges bring me the fresh oranges together with vodka otherwise bring me just orange juice and the vodka
+	<wsd position="7" word="drinks" meaning="drink"/>
+	<wsd position="11" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="16" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="21" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="24" word="vodka" meaning="vodka"/>
+	<wsd position="29" word="orange" meaning="orange (fruit)"/>
+	<wsd position="30" word="juice" meaning="juice"/>
+	<wsd position="33" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.6">armar please get me some vodka from the fridge and if there are fresh oranges please bring them otherwise you have to give me the orange juice
+	<wsd position="5" word="vodka" meaning="vodka"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="14" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="25" word="orange" meaning="orange (fruit)"/>
+	<wsd position="26" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.7">hi I want to make some screwdriver can you bring me some orange juice and vodka if there are fresh oranges in the fridge can you bring me them with the vodka otherwise you bring me just the orange juice and the vodka
+	<wsd position="6" word="screwdriver" meaning="screwdriver (cocktail)"/>
+	<wsd position="12" word="orange" meaning="orange (fruit)"/>
+	<wsd position="13" word="juice" meaning="juice"/>
+	<wsd position="15" word="vodka" meaning="vodka"/>
+	<wsd position="20" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="23" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="31" word="vodka" meaning="vodka"/>
+	<wsd position="38" word="orange" meaning="orange (fruit)"/>
+	<wsd position="39" word="juice" meaning="juice"/>
+	<wsd position="42" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.8">hello armar I would like a screwdriver so please get me some fresh oranges or if there are no fresh oranges bring me orange juice and together with vodka
+	<wsd position="6" word="screwdriver" meaning="screwdriver (cocktail)"/>
+	<wsd position="13" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="20" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="23" word="orange" meaning="orange (fruit)"/>
+	<wsd position="24" word="juice" meaning="juice"/>
+	<wsd position="28" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.9">hey armar bring me vodka and then go to the fridge if there are fresh oranges in the fridge bring them to me and otherwise bring me orange juice
+	<wsd position="4" word="vodka" meaning="vodka"/>
+	<wsd position="10" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="15" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="18" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="27" word="orange" meaning="orange (fruit)"/>
+	<wsd position="28" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.10">robo go to the fridge open it look for the vodka and take it grab the fresh oranges if there are any otherwise grab the orange juice
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="10" word="vodka" meaning="vodka"/>
+	<wsd position="17" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="25" word="orange" meaning="orange (fruit)"/>
+	<wsd position="26" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.11">please mix me a screwdriver for this you need vodka and orange juice please go to the fridge and look if there are fresh oranges if there are no fresh oranges please bring me the orange juice
+	<wsd position="4" word="screwdriver" meaning="screwdriver (cocktail)"/>
+	<wsd position="9" word="vodka" meaning="vodka"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="12" word="juice" meaning="juice"/>
+	<wsd position="17" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="24" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="30" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="35" word="orange" meaning="orange (fruit)"/>
+	<wsd position="36" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.12">hello armar I would want to have some vodka with fresh orange please go to the fridge and check if there are some fresh orange if there are not any please make me a vodka with orange juice
+	<wsd position="8" word="vodka" meaning="vodka"/>
+	<wsd position="11" word="orange" meaning="orange (fruit)"/>
+	<wsd position="16" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="24" word="orange" meaning="orange (fruit)"/>
+	<wsd position="34" word="vodka" meaning="vodka"/>
+	<wsd position="36" word="orange" meaning="orange (fruit)"/>
+	<wsd position="37" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.13">go to the fridge and check if there are fresh oranges if there are fresh oranges bring me them along with the vodka otherwise just bring me orange juice and vodka
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="10" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="15" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="22" word="vodka" meaning="vodka"/>
+	<wsd position="27" word="orange" meaning="orange (fruit)"/>
+	<wsd position="28" word="juice" meaning="juice"/>
+	<wsd position="30" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.14">hi armar please go to the fridge and look if there are any fresh oranges if there are any bring them with you and the vodka otherwise bring orange juice and the vodka
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="14" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="25" word="vodka" meaning="vodka"/>
+	<wsd position="28" word="orange" meaning="orange (fruit)"/>
+	<wsd position="29" word="juice" meaning="juice"/>
+	<wsd position="32" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.15">hi robo please look in the fridge if there are fresh oranges please give it to me if there are none please bring me the orange juice
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="20" word="none" meaning="?"/><!-- "none"? -->
+	<wsd position="25" word="orange" meaning="orange (fruit)"/>
+	<wsd position="26" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.16">hello armar have a look at the fridge if there are oranges please bring them with the vodka and if there are no oranges please bring the orange juice and the vodka
+	<wsd position="4" word="look" meaning="?"/> <!-- ? -->
+	<wsd position="7" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="17" word="vodka" meaning="vodka"/>
+	<wsd position="23" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="27" word="orange" meaning="orange (fruit)"/>
+	<wsd position="28" word="juice" meaning="juice"/>
+	<wsd position="31" word="vodka" meaning="vodka"/>
+</text>
+<text name="if.5.17">armar please go to the fridge and bring me vodka and if there are fresh oranges bring me these if not bring me orange juice
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="9" word="vodka" meaning="vodka"/>
+	<wsd position="15" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="23" word="orange" meaning="orange (fruit)"/>
+	<wsd position="24" word="juice" meaning="juice"/>
+</text>
+<text name="if.5.18">armar could you go to the fridge and if there are fresh oranges bring them and vodka to the table and if not bring orange juice and vodka to the table
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="16" word="vodka" meaning="vodka"/>
+	<wsd position="19" word="table" meaning="table (furniture)"/>
+	<wsd position="24" word="orange" meaning="orange (fruit)"/>
+	<wsd position="25" word="juice" meaning="juice"/>
+	<wsd position="27" word="vodka" meaning="vodka"/>
+	<wsd position="30" word="table" meaning="table (furniture)"/>
+</text>
+<text name="if.5.19">go to the fridge open the fridge if there are fresh oranges take the oranges and the vodka if there are no fresh oranges take the orange juice and the vodka close the fridge and take them to the table
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="11" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="14" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="17" word="vodka" meaning="vodka"/>
+	<wsd position="23" word="oranges" meaning="orange (fruit)"/>
+	<wsd position="26" word="orange" meaning="orange (fruit)"/>
+	<wsd position="27" word="juice" meaning="juice"/>
+	<wsd position="30" word="vodka" meaning="vodka"/>
+	<wsd position="33" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="39" word="table" meaning="table (furniture)"/>
+</text>
+<text name="23.1">Hey Armar i need some popcorn could you please bring me some popcorn thank you
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="12" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="23.2">Hey armar could you please put the green cup from the table into the dishwasher and turn it on thank you
+	<wsd position="8" word="cup" meaning="cup"/>
+	<wsd position="11" word="table" meaning="table (furniture)"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="23.3">Hey armar I am thirsty could you bring me some orange juice from the fridge thank you
+	<wsd position="10" word="orange" meaning="orange (fruit)"/>
+	<wsd position="11" word="juice" meaning="juice"/>
+	<wsd position="14" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="24.1">Hello Armar bring me the popcorn bag from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="6" word="bag" meaning="bag"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="24.2">Hello Armar put the green cup from the into the dishwasher and close the dishwasher
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="10" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="24.3">Hello Armar open the fridge and bring me the orange juice After that go to the fridge and close the fridge
+	<wsd position="4" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="9" word="orange" meaning="orange (fruit)"/>
+	<wsd position="10" word="juice" meaning="juice"/>
+	<wsd position="16" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="20" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="25.1">Armar bring me the popcorn which is on the table please
+	<wsd position="4" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="25.2">Armar take the green cup and put it into the dishwasher and the close the dishwasher please
+	<wsd position="4" word="cup" meaning="cup"/>
+	<wsd position="10" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="15" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="25.3">armar open the fridge and take the orange juice afterwards close the fridge and bring me the orange juice
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="7" word="orange" meaning="orange (fruit)"/>
+	<wsd position="8" word="juice" meaning="juice"/>
+	<wsd position="12" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="17" word="orange" meaning="orange (fruit)"/>
+	<wsd position="18" word="juice" meaning="juice"/>
+</text>
+<text name="26.1">Hello Robot bring me the popcorn
+	<wsd position="1" word="robot" meaning="robot"/>
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+</text>
+<text name="26.2">Close the dishwasher and bring me the green cup
+	<wsd position="2" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="8" word="cup" meaning="cup"/>
+</text>
+<text name="26.3">Bring me the orange juice
+	<wsd position="3" word="orange" meaning="orange (fruit)"/>
+	<wsd position="4" word="juice" meaning="juice"/>
+</text>
+<text name="27.1">Hello Armar please bring me the popcorn from the table
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="27.2">Hello Armar please put the green cup into the dishwasher please close the dishwasher
+	<wsd position="6" word="cup" meaning="cup"/>
+	<wsd position="9" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="27.3">Hello Armar please open the fridge and bring me the orange juice
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="10" word="orange" meaning="orange (fruit)"/>
+	<wsd position="11" word="juice" meaning="juice"/>
+</text>
+<text name="28.1">Armar could you please bring me the popcorn which is on the left side of the green cup Thank you
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="6" word="side" meaning="?"/>  <!-- ?-->
+	<wsd position="17" word="cup" meaning="cup"/>
+</text>
+<text name="28.2">Armar i need all my cups tonight for the party so please also place the green cup from the table into the dishwasher and switch it on but don't forget to close the dishwasher before okay
+	<wsd position="5" word="cups" meaning="cup"/>
+	<wsd position="9" word="party" meaning="party"/>
+	<wsd position="16" word="cup" meaning="cup"/>
+	<wsd position="19" word="table" meaning="table (furniture)"/>
+	<wsd position="22" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="33" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="28.3">Good morning Armar I would like to have orange juice for breakfast so could you please place it from the fridge onto the black table but don't confuse it with the multi vitamine juice okay thank you
+	<wsd position="5" word="morning" meaning="morning"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+	<wsd position="11" word="breakfast" meaning="breakfast"/>
+	<wsd position="20" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="24" word="table" meaning="table (furniture)"/>
+	<wsd position="32" word="vitamine" meaning="vitamin"/>
+	<wsd position="33" word="juice" meaning="juice"/>
+</text>
+<text name="29.1">Armar could you please bring me the popcorn it is on the black table between the cereals and the green cup
+	<wsd position="7" word="popcorn" meaning="popcorn"/>
+	<wsd position="13" word="table" meaning="table (furniture)"/>
+	<wsd position="16" word="cereals" meaning="cereals" meaningSyn="cereal"/>
+	<wsd position="20" word="cup" meaning="cup"/>
+</text>
+<text name="29.2">Armar could you please place the green cup to the red cups into the dishwasher and close the door please
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="11" word="cups" meaning="cup"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="18" word="door" meaning="door"/>
+</text>
+<text name="29.3">hey armar could you bring me the orange juice it s in the fridge in front of the multi vitamin juice and the water bottle
+	<wsd position="7" word="orange" meaning="orange (fruit)"/>
+	<wsd position="8" word="juice" meaning="juice"/>
+	<wsd position="13" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="5" word="front" meaning="?"/>
+	<wsd position="19" word="vitamin" meaning="vitamin"/>
+	<wsd position="20" word="juice" meaning="juice"/>
+	<wsd position="23" word="water" meaning="water"/>
+	<wsd position="24" word="bottle" meaning="bottle"/>
+
+</text>
+<text name="30.1">Hi Armar bring me the popcorn from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+</text>
+<text name="30.2">Hi Armar close the door of the dishwasher
+	<wsd position="4" word="door" meaning="door"/>
+	<wsd position="7" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="30.3">Hi Armar bring me the orange juice from the fridge
+	<wsd position="5" word="orange" meaning="orange (fruit)"/>
+	<wsd position="6" word="juice" meaning="juice"/>
+	<wsd position="9" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="31.1">Hey Armar bring me the popcorn from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+</text>
+<text name="31.2">Hey Armar please place the green cup from the kitchen table into the dishwasher
+	<wsd position="6" word="cup" meaning="cup"/>
+	<wsd position="9" word="kitchen" meaning="kitchen"/>
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="31.3">Hey Armar bring me the orange juice from the fridge please
+	<wsd position="5" word="orange" meaning="orange (fruit)"/>
+	<wsd position="6" word="juice" meaning="juice"/>
+	<wsd position="9" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="32.1">Hallo Armar bring me the popcorn bag from the table
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="6" word="bag" meaning="bag"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="32.2">Hello Armar bring the green cup from the table into the dishwasher and close the door
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+	<wsd position="11" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="15" word="door" meaning="door"/>
+</text>
+<text name="32.3">Hello Armar Go to the fridge open the fridge door and bring me the orange juice that is located there and close the door of the fridge
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="9" word="door" meaning="door"/>
+	<wsd position="14" word="orange" meaning="orange (fruit)"/>
+	<wsd position="15" word="juice" meaning="juice"/>
+	<wsd position="23" word="door" meaning="door"/>
+	<wsd position="26" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="33.1">Armar bring me the bag of popcorn from the table
+	<wsd position="4" word="bag" meaning="bag"/>
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="33.2">Armar place the green cup from the table into the dishwasher and close it afterwards
+	<wsd position="4" word="cup" meaning="cup"/>
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="10" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="33.3">Armar bring me the orange juice from the fridge
+	<wsd position="4" word="orange" meaning="orange (fruit)"/>
+	<wsd position="5" word="juice" meaning="juice"/>
+	<wsd position="8" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="34.1">Armar bring me the popcorn from the table
+	<wsd position="4" word="popcorn" meaning="popcorn"/>
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+</text>
+<text name="34.2">Armar get the green cup from the table and put it into the dishwasher
+	<wsd position="4" word="cup" meaning="cup"/>
+	<wsd position="7" word="table" meaning="table (furniture)"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="34.3">Armar bring me the orange juice it is in the fridge
+	<wsd position="4" word="orange" meaning="orange (fruit)"/>
+	<wsd position="5" word="juice" meaning="juice"/>
+	<wsd position="10" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="35.1">Hello Armar bring me the popcorn from the table He stands between Vitalis and cup Thank you very much
+	<wsd position="5" word="popcorn" meaning="popcorn"/>
+	<wsd position="8" word="table" meaning="table (furniture)"/>
+	<wsd position="14" word="cup" meaning="cup"/>
+</text>
+<text name="35.2">Hello Armar bring the green cup which is between popcorn and Nesquik in the dishwasher Thank you
+	<wsd position="5" word="cup" meaning="cup"/>
+	<wsd position="9" word="popcorn" meaning="popcorn"/>
+	<wsd position="14" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="35.3">Hello Armar bring me the one liter of orange juice which is at the front in the fridge I am very thirsty The orange juice is between Apollinaris and multivitamin Naktar in a blue colour box
+	<wsd position="6" word="liter" meaning="litre" meaningSyn="liter"/>
+	<wsd position="8" word="orange" meaning="orange (fruit)"/>
+	<wsd position="9" word="juice" meaning="juice"/>
+	<wsd position="14" word="front" meaning="?"/>
+	<wsd position="17" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="23" word="orange" meaning="orange (fruit)"/>
+	<wsd position="24" word="juice" meaning="juice"/>
+	<wsd position="30" word="Naktar" meaning="nectar (drink)"/> <!-- fucked up spelling-->
+	<wsd position="34" word="colour" meaning="colour"/>
+	<wsd position="35" word="box" meaning="box"/>
+</text>
+<text name="36.1">Hello Armar please bring me the popcorn from the table
+	<wsd position="6" word="popcorn" meaning="popcorn"/>
+	<wsd position="9" word="table" meaning="table (furniture)"/>
+</text>
+<text name="36.2">Hello Armar could you take the green cup from the table into the dishwasher please
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+</text>
+<text name="36.3">Hello Armar could you bring me the orange juice from the fridge please
+	<wsd position="7" word="orange" meaning="orange (fruit)"/>
+	<wsd position="8" word="juice" meaning="juice"/>
+	<wsd position="11" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+</text>
+<text name="s6p01">First step go to the fridge now open the fridge grab the water with one hand close the fridge with the other hand go to the table open the water bottle put the cap of the water bottle on the table grab the green cup fill the water in the cup place the green cup on the table and place the water on the table now go to the dishwasher grab the two red cups go to the cupboard put cups in workspace below the cupboard open the cupboard grab two red cups and put the two red cups in the cupboard
+	<wsd position="1" word="step" meaning="?"/>
+	<wsd position="5" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="9" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="12" word="water" meaning="water"/>
+	<wsd position="15" word="hand" meaning="hand"/>
+	<wsd position="18" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="22" word="hand" meaning="hand"/>
+	<wsd position="26" word="table" meaning="table (furniture)"/>
+	<wsd position="29" word="water" meaning="water"/>
+	<wsd position="30" word="bottle" meaning="bottle"/>
+	<wsd position="33" word="cap" meaning="lid (container)"/>
+	<wsd position="36" word="water" meaning="water"/>
+	<wsd position="37" word="bottle" meaning="bottle"/>
+	<wsd position="40" word="table" meaning="table (furniture)"/>
+	<wsd position="44" word="cup" meaning="cup"/>
+	<wsd position="47" word="water" meaning="water"/>
+	<wsd position="50" word="cup" meaning="cup"/>
+	<wsd position="54" word="cup" meaning="cup"/>
+	<wsd position="57" word="table" meaning="table (furniture)"/>
+	<wsd position="61" word="water" meaning="water"/>
+	<wsd position="64" word="table" meaning="table (furniture)"/>
+	<wsd position="69" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="74" word="cups" meaning="cup"/>
+	<wsd position="78" word="cupboard" meaning="cupboard"/>
+	<wsd position="80" word="cups" meaning="cup"/>
+	<wsd position="82" word="workspace" meaning="workspace"/>
+	<wsd position="85" word="cupboard" meaning="cupboard"/>
+	<wsd position="88" word="cupboard" meaning="cupboard"/>
+	<wsd position="92" word="cups" meaning="cup"/>
+	<wsd position="98" word="cups" meaning="cup"/>
+	<wsd position="101" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p02">Hey Armar can you please get the green cup from the table it is located quite in the middle please fill it afterwards with water from the fridge the water is in the fridge right next to the orange juice then you can bring the cup to me afterwards empty the dishwasher there are red cups in there so you have to open it and then put them into the cupboard
+	<wsd position="8" word="cup" meaning="cup"/>
+	<wsd position="11" word="table" meaning="table (furniture)"/>
+	<wsd position="24" word="water" meaning="water"/>
+	<wsd position="27" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="29" word="water" meaning="water"/>
+	<wsd position="33" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="38" word="orange" meaning="orange (fruit)"/>
+	<wsd position="39" word="juice" meaning="juice"/>
+	<wsd position="45" word="cup" meaning="cup"/>
+	<wsd position="51" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="55" word="cups" meaning="cup"/>
+	<wsd position="70" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p03">Go to the table take the green cup standing on the table and go to the fridge open the fridge right in front of you there is a water bottle take the bottle open it fill water in the cup and put the bottle back in the fridge close the fridge and then bring me the cup afterwards go to the dishwasher open the dishwasher take two red cups em from inside bring them to the cupboard and open the cupboard put the cups on the shelf and close the cupboard again
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="11" word="table" meaning="table (furniture)"/>
+	<wsd position="16" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="19" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="22" word="front" meaning="?"/>
+	<wsd position="28" word="water" meaning="water"/>
+	<wsd position="29" word="bottle" meaning="bottle"/>
+	<wsd position="32" word="bottle" meaning="bottle"/>
+	<wsd position="36" word="water" meaning="water"/>
+	<wsd position="39" word="cup" meaning="cup"/>
+	<wsd position="43" word="bottle" meaning="bottle"/>
+	<wsd position="47" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="50" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="56" word="cup" meaning="cup"/>
+	<wsd position="61" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="64" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="68" word="cups" meaning="cup"/>
+	<wsd position="76" word="cupboard" meaning="cupboard"/>
+	<wsd position="80" word="cupboard" meaning="cupboard"/>
+	<wsd position="83" word="cups" meaning="cup"/>
+	<wsd position="86" word="shelf" meaning="shelf (storage)"/>
+	<wsd position="90" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p04">Hallo Armar hello Armar i want you to get me a cup of water ah to do so please go to the fridge ah open the fridge take out the water bottle close the fridge and now go to the table where you can see there is some stuff standing around ah on the table there is a green cup ah take the green cup and open the water bottle and pour in ah the water in the cup ah and close the water bottle again ah then you bring the eh green cup to me after that you go back to the table take the water bottle and bring it back to the fridge ahm then you go to the dishwasher take out eh the first red cup and put it in the cupboard and then you do the same thing with the other red cup that is all
+	<wsd position="11" word="cup" meaning="cup"/>
+	<wsd position="13" word="water" meaning="water"/>
+	<wsd position="22" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="26" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="30" word="water" meaning="water"/>
+	<wsd position="31" word="bottle" meaning="bottle"/>
+	<wsd position="34" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="40" word="table" meaning="table (furniture)"/>
+	<wsd position="48" word="stuff" meaning="?"/>
+	<wsd position="54" word="table" meaning="table (furniture)"/>
+	<wsd position="59" word="cup" meaning="cup"/>
+	<wsd position="64" word="cup" meaning="cup"/>
+	<wsd position="68" word="water" meaning="water"/>
+	<wsd position="69" word="bottle" meaning="bottle"/>
+	<wsd position="75" word="water" meaning="water"/>
+	<wsd position="78" word="cup" meaning="cup"/>
+	<wsd position="83" word="water" meaning="water"/>
+	<wsd position="84" word="bottle" meaning="bottle"/>
+	<wsd position="93" word="cup" meaning="cup"/>
+	<wsd position="103" word="table" meaning="table (furniture)"/>
+	<wsd position="106" word="water" meaning="water"/>
+	<wsd position="107" word="bottle" meaning="bottle"/>
+	<wsd position="114" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="121" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="128" word="cup" meaning="cup"/>
+	<wsd position="134" word="cupboard" meaning="cupboard"/>
+	<wsd position="141" word="thing" meaning="object (philosophy)"/>
+	<wsd position="146" word="cup" meaning="cup"/>
+</text>
+<text name="s6p05">Hey Armar eh please eh take the cup and eh go to the fridge oh the cup on the table go to the fridge open the door and eh take the water from there then fill the water in the cup please bring me the cup nice so now please open the dishwasher and take the red cups from there into the cupboard
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="13" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="16" word="cup" meaning="cup"/>
+	<wsd position="19" word="table" meaning="table (furniture)"/>
+	<wsd position="23" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="26" word="door" meaning="door"/>
+	<wsd position="31" word="water" meaning="water"/>
+	<wsd position="37" word="water" meaning="water"/>
+	<wsd position="40" word="cup" meaning="cup"/>
+	<wsd position="45" word="cup" meaning="cup"/>
+	<wsd position="52" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="57" word="cup" meaning="cup"/>
+	<wsd position="62" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p06">Hello Armar please bring me the green cup from the table fill it with water from the fridge and bring it to me afterwards eh take all the red cups out of the dishwasher and put them in the eh cupboard
+	<wsd position="7" word="cup" meaning="cup"/>
+	<wsd position="10" word="table" meaning="table (furniture)"/>
+	<wsd position="14" word="water" meaning="water"/>
+	<wsd position="17" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="29" word="cups" meaning="cup"/>
+	<wsd position="33" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="40" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p07">Go to the table and grab the green cup then go to the fridge and open it take the Apollinaris bottle and open it
+pour the bottle into the cup until it's full put down both objects onto the nearest table and close the fridge
+then go to the dishwasher open it and then take all the red cups and place them into the cupboard
+	<wsd position="3" word="table" meaning="table (furniture)"/>
+	<wsd position="8" word="cup" meaning="cup"/>
+	<wsd position="13" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="20" word="bottle" meaning="bottle"/>
+	<wsd position="26" word="bottle" meaning="bottle"/>
+	<wsd position="29" word="cup" meaning="cup"/>
+	<wsd position="36" word="objects" meaning="object (philosophy)"/> <!-- ? -->
+	<wsd position="40" word="table" meaning="table (furniture)"/>
+	<wsd position="44" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="49" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="58" word="cups" meaning="cup"/>
+	<wsd position="64" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p08">Hey Armar I'm thirsty please eh grab the green cup on the table and fill it with water the water is in the fridge where you have to eh open the door first
+afterwards please grab the red cups out of the dishwasher and store them into the cupboard
+	<wsd position="9" word="cup" meaning="cup"/>
+	<wsd position="12" word="table" meaning="table (furniture)"/>
+	<wsd position="17" word="water" meaning="water"/>
+	<wsd position="19" word="water" meaning="water"/>
+	<wsd position="23" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="31" word="door" meaning="door"/>
+	<wsd position="38" word="cups" meaning="cup"/>
+	<wsd position="42" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="48" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p09">Hey Armar can you get me the water from the fridge and put it in the green cup and bring it to me
+afterwards please take out the red cups from the dishwasher and put them in the cupboard
+	<wsd position="7" word="water" meaning="water"/>
+	<wsd position="10" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="17" word="cup" meaning="cup"/>
+	<wsd position="29" word="cups" meaning="cup"/>
+	<wsd position="32" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="38" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s6p10">Go to the fridge open the fridge door then take the water bottle out close the fridge door then go to the table and open the water bottle
+fill the green cup with the water
+and then bring the cup to me
+go to the dishwasher ahm take the two red cups out of the dishwasher and put them on the cupboard
+	<wsd position="3" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="6" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="7" word="door" meaning="door"/>
+	<wsd position="11" word="water" meaning="water"/>
+	<wsd position="12" word="bottle" meaning="bottle"/>
+	<wsd position="16" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="17" word="door" meaning="door"/>
+	<wsd position="22" word="table" meaning="table (furniture)"/>
+	<wsd position="26" word="water" meaning="water"/>
+	<wsd position="27" word="bottle" meaning="bottle"/>
+	<wsd position="31" word="cup" meaning="cup"/>
+	<wsd position="34" word="water" meaning="water"/>
+	<wsd position="39" word="cup" meaning="cup"/>
+	<wsd position="45" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="51" word="cups" meaning="cup"/>
+	<wsd position="55" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="61" word="cupboard" meaning="cupboard"/>
+</text>
+<text name="s7p01">Ok first step go to the dishwasher and open it
+take out one plate and give the plate a wash
+then place the plate somewhere on the table
+go to the fridge open it and grab an instant meal
+now take the instant meal go to the place where you placed the plate and put the instant meal on the plate
+now take the whole plate with the instant meal go to the microwave open it and put the plate in the microwave
+now activate the microwave
+when it's done open the microwave grab the plate go to the table and put the plate on it
+	<wsd position="2" word="step" meaning="?"/>
+	<wsd position="6" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="13" word="plate" meaning="plate (dishware)"/>
+	<wsd position="17" word="plate" meaning="plate (dishware)"/>
+	<wsd position="19" word="wash" meaning="?"/>
+	<wsd position="23" word="plate" meaning="plate (dishware)"/>
+	<wsd position="27" word="table" meaning="table (furniture)"/>
+	<wsd position="31" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="38" word="meal" meaning="meal"/>
+	<wsd position="43" word="meal" meaning="meal"/>
+	<wsd position="47" word="place" meaning="?"/>
+	<wsd position="52" word="plate" meaning="plate (dishware)"/>
+	<wsd position="57" word="meal" meaning="meal"/>
+	<wsd position="60" word="plate" meaning="plate (dishware)"/>
+	<wsd position="65" word="plate" meaning="plate (dishware)"/>
+	<wsd position="69" word="meal" meaning="meal"/>
+	<wsd position="73" word="microwave" meaning="microwave"/>
+	<wsd position="79" word="plate" meaning="plate (dishware)"/>
+	<wsd position="82" word="microwave" meaning="microwave"/>
+	<wsd position="86" word="microwave" meaning="microwave"/>
+	<wsd position="92" word="microwave" meaning="microwave"/>
+	<wsd position="95" word="plate" meaning="plate (dishware)"/>
+	<wsd position="99" word="table" meaning="table (furniture)"/>
+	<wsd position="103" word="plate" meaning="plate (dishware)"/>
+
+</text>
+<text name="s7p02">Armar please prepare me a meal
+there are plates in the dishwasher please get a plate from the dishwasher and clean it
+afterwards put the instant meal from the fridge on it and warm it in the microwave for two minutes
+when it is done get the plate out of the microwave and put it on the table
+then you are done
+	<wsd position="5" word="meal" meaning="meal"/>
+	<wsd position="8" word="plates" meaning="plate (dishware)"/>
+	<wsd position="11" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="15" word="plate" meaning="plate (dishware)"/>
+	<wsd position="18" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="26" word="meal" meaning="meal"/>
+	<wsd position="29" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="37" word="microwave" meaning="microwave"/>
+	<wsd position="40" word="minutes" meaning="minute"/>
+	<wsd position="47" word="plate" meaning="plate (dishware)"/>
+	<wsd position="51" word="microwave" meaning="microwave"/>
+	<wsd position="57" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p03">Go to the dishwasher open the dishwasher take one plate and close the dishwasher again
+go to the sink with the plate and clean the plate
+afterwards go to the fridge open the fridge take one instant meal out of the fridge and close the fridge again
+then open the instant meal put the content on a plate go to the microwave open the microwave and put the plate inside close the microwave and press start
+wait until it's warm
+say it's finished with a pling and ready
+open the microwave take the plate out close the microwave again and take the plate to the table and put the plate on the table
+	<wsd position="3" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="6" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="9" word="plate" meaning="plate (dishware)"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="18" word="sink" meaning="sink"/>
+	<wsd position="21" word="plate" meaning="plate (dishware)"/>
+	<wsd position="25" word="plate" meaning="plate (dishware)"/>
+	<wsd position="30" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="33" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<!-- <wsd position="36" word="instant" meaning="instant"/> -->
+	<wsd position="37" word="meal" meaning="meal"/>
+	<wsd position="41" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="45" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="51" word="meal" meaning="meal"/>
+	<wsd position="54" word="content" meaning="?"/>
+	<wsd position="57" word="plate" meaning="plate (dishware)"/>
+	<wsd position="61" word="microwave" meaning="microwave"/>
+	<wsd position="64" word="microwave" meaning="microwave"/>
+	<wsd position="68" word="plate" meaning="plate (dishware)"/>
+	<wsd position="72" word="microwave" meaning="microwave"/>
+	<wsd position="75" word="start" meaning="?"/> <!-- ? -->
+	<wsd position="90" word="microwave" meaning="microwave"/>
+	<wsd position="93" word="plate" meaning="plate (dishware)"/>
+	<wsd position="97" word="microwave" meaning="microwave"/>
+	<wsd position="102" word="plate" meaning="plate (dishware)"/>
+	<wsd position="105" word="table" meaning="table (furniture)"/>
+	<wsd position="109" word="plate" meaning="plate (dishware)"/>
+	<wsd position="112" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p04">Hello Armar i want you to prepare a meal for me
+ah therefore you go to the dishwasher take out any of the plates then you go to the sink and wash it ahm then you put the plate
+ on the table and you go to the fridge you open the fridge and take out the instant meal from the fridge and you close the fridge
+  again you go to the table and put the instant meal on the plate you
+   just washed
+ah then you take the plate with the meal and go to the microwave open the microwave put in the meal close the microwave heat up the meal
+ ahm take out the meal from the microwave and bring it to the table and eh yah put it there
+ 	<wsd position="8" word="meal" meaning="meal"/>
+ 	<wsd position="17" word="dishwasher" meaning="dishwasher"/>
+ 	<wsd position="23" word="plates" meaning="plate (dishware)"/>
+ 	<wsd position="29" word="sink" meaning="sink"/>
+ 	<wsd position="38" word="plate" meaning="plate (dishware)"/>
+ 	<wsd position="41" word="table" meaning="table (furniture)"/>
+ 	<wsd position="47" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+ 	<wsd position="51" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+ 	<wsd position="57" word="meal" meaning="meal"/>
+ 	<wsd position="60" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+ 	<wsd position="65" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+ 	<wsd position="71" word="table" meaning="table (furniture)"/>
+ 	<wsd position="76" word="meal" meaning="meal"/>
+ 	<wsd position="79" word="plate" meaning="plate (dishware)"/>
+ 	<wsd position="88" word="plate" meaning="plate (dishware)"/>
+ 	<wsd position="91" word="meal" meaning="meal"/>
+ 	<wsd position="96" word="microwave" meaning="microwave"/>
+ 	<wsd position="99" word="microwave" meaning="microwave"/>
+ 	<wsd position="103" word="meal" meaning="meal"/>
+ 	<wsd position="106" word="microwave" meaning="microwave"/>
+ 	<!-- <wsd position="107" word="heat" meaning="heat"/> -->
+ 	<wsd position="110" word="meal" meaning="meal"/>
+ 	<wsd position="115" word="meal" meaning="meal"/>
+ 	<wsd position="118" word="microwave" meaning="microwave"/>
+ 	<wsd position="124" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p05a">Hey Armar I'm hungry so eh please eh take the plates from the dishwasher and eh fill it with the instant meal from the fridge
+so go eh go to the fridge open the door take the instant meal and fill it to the plates and then eh do this into the microwave and microwave it five minutes
+then bring it to me
+	<wsd position="10" word="plates" meaning="plate (dishware)"/>
+	<wsd position="13" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="21" word="meal" meaning="meal"/>
+	<wsd position="24" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="31" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="34" word="door" meaning="door"/>
+	<wsd position="38" word="meal" meaning="meal"/>
+	<wsd position="44" word="plates" meaning="plate (dishware)"/>
+	<wsd position="52" word="microwave" meaning="microwave"/>
+	<wsd position="54" word="microwave" meaning="microwave"/>
+	<wsd position="57" word="minutes" meaning="minute"/>
+</text>
+<text name="s7p05b">Hey Armar ah please take the plates eh from the dishwasher and clean it then fill it with the instant meal from the fridge
+so go to the fridge open the door take the instant meal and fill it to into the plates then take the plates and eh bring it to the microwave microwave it five minutes
+afterwards bring its bring it to me
+	<wsd position="6" word="plates" meaning="plate (dishware)"/>
+	<wsd position="10" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="20" word="meal" meaning="meal"/>
+	<wsd position="23" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="28" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="31" word="door" meaning="door"/>
+	<wsd position="35" word="meal" meaning="meal"/>
+	<wsd position="42" word="plates" meaning="plate (dishware)"/>
+	<wsd position="46" word="plates" meaning="plate (dishware)"/>
+	<wsd position="53" word="microwave" meaning="microwave"/>
+	<!-- <wsd position="54" word="microwave" meaning="microwave"/> -->
+	<wsd position="57" word="minutes" meaning="minute"/>
+</text>
+<text name="s7p06">Ok Armar please take a plate from the dishwasher wash it and fill it with instant food from the fridge
+then warm it and put it on the table
+	<wsd position="5" word="plate" meaning="plate (dishware)"/>
+	<wsd position="8" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="16" word="food" meaning="food"/>
+	<wsd position="19" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="28" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p07">Go to the dishwasher and take out any plate then go to the sink and wash the plate
+go to the fridge and open it
+take an instant meal and put it on the plate
+go to the microwave open it and put the plate inside
+activate the microwave
+after it's done open it take out the plate and go to the table
+put the plate onto the table
+	<wsd position="3" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="8" word="plate" meaning="plate (dishware)"/>
+	<wsd position="13" word="sink" meaning="sink"/>
+	<wsd position="17" word="plate" meaning="plate (dishware)"/>
+	<wsd position="21" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="28" word="meal" meaning="meal"/>
+	<wsd position="34" word="plate" meaning="plate (dishware)"/>
+	<wsd position="38" word="microwave" meaning="microwave"/>
+	<wsd position="44" word="plate" meaning="plate (dishware)"/>
+	<wsd position="48" word="microwave" meaning="microwave"/>
+	<wsd position="57" word="plate" meaning="plate (dishware)"/>
+	<wsd position="62" word="table" meaning="table (furniture)"/>
+	<wsd position="65" word="plate" meaning="plate (dishware)"/>
+	<wsd position="68" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p08">Hey Armar I'm hungry please take eh a plate from the dishwasher and rinse it with water at the sink
+afterwards go to the fridge open the fridge and put the instant food you find into in there on to the plate
+close the fridge and warm the plate in the eh microwave
+therefore you have to open the door first
+afterwards when it's warm please bring it eh to me at the table
+	<wsd position="8" word="plate" meaning="plate (dishware)"/>
+	<wsd position="11" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="16" word="water" meaning="water"/>
+	<wsd position="19" word="sink" meaning="sink"/>
+	<wsd position="24" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="27" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="32" word="food" meaning="food"/>
+	<wsd position="41" word="plate" meaning="plate (dishware)"/>
+	<wsd position="44" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="48" word="plate" meaning="plate (dishware)"/>
+	<wsd position="52" word="microwave" meaning="microwave"/>
+	<wsd position="59" word="door" meaning="door"/>
+	<wsd position="73" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p09">Hey Armar can you get a plate from dishwasher and wash it
+and after get the instant meal from the fridge and put it on the plate and heat it up in the microwave and put it on the table
+	<wsd position="6" word="plate" meaning="plate (dishware)"/>
+	<wsd position="8" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="17" word="meal" meaning="meal"/>
+	<wsd position="20" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="26" word="plate" meaning="plate (dishware)"/>
+	<!-- <wsd position="17" word="heat" meaning="heat"/> -->
+	<wsd position="33" word="microwave" meaning="microwave"/>
+	<wsd position="39" word="table" meaning="table (furniture)"/>
+</text>
+<text name="s7p10">Go to the dishwasher and take one plate out wash this plate and then go to the fridge
+put the em meal instant meal on the plate and bring it to the mac microwave
+put it into the microwave then after it is warmed up put the ehm meal on the plate and bring the plate to the table
+	<wsd position="3" word="dishwasher" meaning="dishwasher"/>
+	<wsd position="7" word="plate" meaning="plate (dishware)"/>
+	<wsd position="11" word="plate" meaning="plate (dishware)"/>
+	<wsd position="17" word="fridge" meaning="fridge" meaningSyn="refrigerator"/>
+	<wsd position="21" word="meal" meaning="meal"/>
+	<wsd position="23" word="meal" meaning="meal"/>
+	<wsd position="26" word="plate" meaning="plate (dishware)"/>
+	<wsd position="33" word="microwave" meaning="microwave"/>
+	<wsd position="38" word="microwave" meaning="microwave"/>
+	<wsd position="48" word="meal" meaning="meal"/>
+	<wsd position="51" word="plate" meaning="plate (dishware)"/>
+	<wsd position="55" word="plate" meaning="plate (dishware)"/>
+	<wsd position="58" word="table" meaning="table (furniture)"/>
+</text>
+</korpus>

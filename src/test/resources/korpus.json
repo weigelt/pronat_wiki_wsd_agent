@@ -1,0 +1,678 @@
+{
+  "s6p01" : {
+    "text" : "First step go to the fridge now open the fridge grab the water with one hand close the fridge with the other hand go to the table open the water bottle put the cap of the water bottle on the table grab the green cup fill the water in the cup place the green cup on the table and place the water on the table now go to the dishwasher grab the two red cups go to the cupboard put cups in workspace below the cupboard open the cupboard grab two red cups and put the two red cups in the cupboard",
+    "annotations" : [ [ "1", "step", "?", "" ], [ "5", "fridge", "fridge", "refrigerator" ], [ "9", "fridge", "fridge", "refrigerator" ], [ "12", "water", "water", "" ], [ "15", "hand", "hand", "" ], [ "18", "fridge", "fridge", "refrigerator" ], [ "22", "hand", "hand", "" ], [ "26", "table", "table (furniture)", "" ], [ "29", "water", "water", "" ], [ "30", "bottle", "bottle", "" ], [ "33", "cap", "lid (container)", "" ], [ "36", "water", "water", "" ], [ "37", "bottle", "bottle", "" ], [ "40", "table", "table (furniture)", "" ], [ "44", "cup", "cup", "" ], [ "47", "water", "water", "" ], [ "50", "cup", "cup", "" ], [ "54", "cup", "cup", "" ], [ "57", "table", "table (furniture)", "" ], [ "61", "water", "water", "" ], [ "64", "table", "table (furniture)", "" ], [ "69", "dishwasher", "dishwasher", "" ], [ "74", "cups", "cup", "" ], [ "78", "cupboard", "cupboard", "" ], [ "80", "cups", "cup", "" ], [ "82", "workspace", "workspace", "" ], [ "85", "cupboard", "cupboard", "" ], [ "88", "cupboard", "cupboard", "" ], [ "92", "cups", "cup", "" ], [ "98", "cups", "cup", "" ], [ "101", "cupboard", "cupboard", "" ] ]
+  },
+  "s6p02" : {
+    "text" : "Hey Armar can you please get the green cup from the table it is located quite in the middle please fill it afterwards with water from the fridge the water is in the fridge right next to the orange juice then you can bring the cup to me afterwards empty the dishwasher there are red cups in there so you have to open it and then put them into the cupboard",
+    "annotations" : [ [ "8", "cup", "cup", "" ], [ "11", "table", "table (furniture)", "" ], [ "24", "water", "water", "" ], [ "27", "fridge", "fridge", "refrigerator" ], [ "29", "water", "water", "" ], [ "33", "fridge", "fridge", "refrigerator" ], [ "38", "orange", "orange (fruit)", "" ], [ "39", "juice", "juice", "" ], [ "45", "cup", "cup", "" ], [ "51", "dishwasher", "dishwasher", "" ], [ "55", "cups", "cup", "" ], [ "70", "cupboard", "cupboard", "" ] ]
+  },
+  "26.1" : {
+    "text" : "Hello Robot bring me the popcorn",
+    "annotations" : [ [ "1", "robot", "robot", "" ], [ "5", "popcorn", "popcorn", "" ] ]
+  },
+  "22.3" : {
+    "text" : "Armar I am thursty please go to the fridge open it eh and scan for the orange juice it should be in front of you then grab it then close the fridge and eh turn over and come here and hand it to me",
+    "annotations" : [ [ "8", "fridge", "fridge", "refrigerator" ], [ "16", "orange", "orange (fruit)", "" ], [ "17", "juice", "juice", "" ], [ "22", "front", "?", "" ], [ "31", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "22.2" : {
+    "text" : "Armar eh please go to the table find the green cup ehm it is between the boxes then grab it go to the dishwasher and put the cup inside and then eh close the dishwasher turn it on",
+    "annotations" : [ [ "6", "table", "table (furniture)", "" ], [ "10", "cup", "cup", "" ], [ "16", "boxes", "box", "" ], [ "23", "dishwasher", "dishwasher", "" ], [ "27", "cup", "cup", "" ], [ "34", "dishwasher", "dishwasher", "" ] ]
+  },
+  "22.1" : {
+    "text" : "hello Armar uhm I need some popcorn could you please go to the table grab the popcorn box turn to turn to me and then come back and hand it to me",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "13", "table", "table (furniture)", "" ], [ "16", "popcorn", "popcorn", "" ], [ "17", "box", "box", "" ] ]
+  },
+  "jk0.1" : {
+    "text" : "robot go to the table and grab the plant",
+    "annotations" : [ [ "0", "robot", "robot", "" ], [ "4", "table", "table (furniture)", "" ], [ "8", "plant", "plant", "" ] ]
+  },
+  "s6p09" : {
+    "text" : "Hey Armar can you get me the water from the fridge and put it in the green cup and bring it to me\nafterwards please take out the red cups from the dishwasher and put them in the cupboard",
+    "annotations" : [ [ "7", "water", "water", "" ], [ "10", "fridge", "fridge", "refrigerator" ], [ "17", "cup", "cup", "" ], [ "29", "cups", "cup", "" ], [ "32", "dishwasher", "dishwasher", "" ], [ "38", "cupboard", "cupboard", "" ] ]
+  },
+  "s6p07" : {
+    "text" : "Go to the table and grab the green cup then go to the fridge and open it take the Apollinaris bottle and open it\npour the bottle into the cup until it's full put down both objects onto the nearest table and close the fridge\nthen go to the dishwasher open it and then take all the red cups and place them into the cupboard",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "8", "cup", "cup", "" ], [ "13", "fridge", "fridge", "refrigerator" ], [ "20", "bottle", "bottle", "" ], [ "26", "bottle", "bottle", "" ], [ "29", "cup", "cup", "" ], [ "36", "objects", "object (philosophy)", "" ], [ "40", "table", "table (furniture)", "" ], [ "44", "fridge", "fridge", "refrigerator" ], [ "49", "dishwasher", "dishwasher", "" ], [ "58", "cups", "cup", "" ], [ "64", "cupboard", "cupboard", "" ] ]
+  },
+  "s6p08" : {
+    "text" : "Hey Armar I'm thirsty please eh grab the green cup on the table and fill it with water the water is in the fridge where you have to eh open the door first\nafterwards please grab the red cups out of the dishwasher and store them into the cupboard",
+    "annotations" : [ [ "9", "cup", "cup", "" ], [ "12", "table", "table (furniture)", "" ], [ "17", "water", "water", "" ], [ "19", "water", "water", "" ], [ "23", "fridge", "fridge", "refrigerator" ], [ "31", "door", "door", "" ], [ "38", "cups", "cup", "" ], [ "42", "dishwasher", "dishwasher", "" ], [ "48", "cupboard", "cupboard", "" ] ]
+  },
+  "s6p05" : {
+    "text" : "Hey Armar eh please eh take the cup and eh go to the fridge oh the cup on the table go to the fridge open the door and eh take the water from there then fill the water in the cup please bring me the cup nice so now please open the dishwasher and take the red cups from there into the cupboard",
+    "annotations" : [ [ "7", "cup", "cup", "" ], [ "13", "fridge", "fridge", "refrigerator" ], [ "16", "cup", "cup", "" ], [ "19", "table", "table (furniture)", "" ], [ "23", "fridge", "fridge", "refrigerator" ], [ "26", "door", "door", "" ], [ "31", "water", "water", "" ], [ "37", "water", "water", "" ], [ "40", "cup", "cup", "" ], [ "45", "cup", "cup", "" ], [ "52", "dishwasher", "dishwasher", "" ], [ "57", "cup", "cup", "" ], [ "62", "cupboard", "cupboard", "" ] ]
+  },
+  "s6p06" : {
+    "text" : "Hello Armar please bring me the green cup from the table fill it with water from the fridge and bring it to me afterwards eh take all the red cups out of the dishwasher and put them in the eh cupboard",
+    "annotations" : [ [ "7", "cup", "cup", "" ], [ "10", "table", "table (furniture)", "" ], [ "14", "water", "water", "" ], [ "17", "fridge", "fridge", "refrigerator" ], [ "29", "cups", "cup", "" ], [ "33", "dishwasher", "dishwasher", "" ], [ "40", "cupboard", "cupboard", "" ] ]
+  },
+  "26.3" : {
+    "text" : "Bring me the orange juice",
+    "annotations" : [ [ "3", "orange", "orange (fruit)", "" ], [ "4", "juice", "juice", "" ] ]
+  },
+  "s6p03" : {
+    "text" : "Go to the table take the green cup standing on the table and go to the fridge open the fridge right in front of you there is a water bottle take the bottle open it fill water in the cup and put the bottle back in the fridge close the fridge and then bring me the cup afterwards go to the dishwasher open the dishwasher take two red cups em from inside bring them to the cupboard and open the cupboard put the cups on the shelf and close the cupboard again",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "7", "cup", "cup", "" ], [ "11", "table", "table (furniture)", "" ], [ "16", "fridge", "fridge", "refrigerator" ], [ "19", "fridge", "fridge", "refrigerator" ], [ "22", "front", "?", "" ], [ "28", "water", "water", "" ], [ "29", "bottle", "bottle", "" ], [ "32", "bottle", "bottle", "" ], [ "36", "water", "water", "" ], [ "39", "cup", "cup", "" ], [ "43", "bottle", "bottle", "" ], [ "47", "fridge", "fridge", "refrigerator" ], [ "50", "fridge", "fridge", "refrigerator" ], [ "56", "cup", "cup", "" ], [ "61", "dishwasher", "dishwasher", "" ], [ "64", "dishwasher", "dishwasher", "" ], [ "68", "cups", "cup", "" ], [ "76", "cupboard", "cupboard", "" ], [ "80", "cupboard", "cupboard", "" ], [ "83", "cups", "cup", "" ], [ "86", "shelf", "shelf (storage)", "" ], [ "90", "cupboard", "cupboard", "" ] ]
+  },
+  "26.2" : {
+    "text" : "Close the dishwasher and bring me the green cup",
+    "annotations" : [ [ "2", "dishwasher", "dishwasher", "" ], [ "8", "cup", "cup", "" ] ]
+  },
+  "s6p04" : {
+    "text" : "Hallo Armar hello Armar i want you to get me a cup of water ah to do so please go to the fridge ah open the fridge take out the water bottle close the fridge and now go to the table where you can see there is some stuff standing around ah on the table there is a green cup ah take the green cup and open the water bottle and pour in ah the water in the cup ah and close the water bottle again ah then you bring the eh green cup to me after that you go back to the table take the water bottle and bring it back to the fridge ahm then you go to the dishwasher take out eh the first red cup and put it in the cupboard and then you do the same thing with the other red cup that is all",
+    "annotations" : [ [ "11", "cup", "cup", "" ], [ "13", "water", "water", "" ], [ "22", "fridge", "fridge", "refrigerator" ], [ "26", "fridge", "fridge", "refrigerator" ], [ "30", "water", "water", "" ], [ "31", "bottle", "bottle", "" ], [ "34", "fridge", "fridge", "refrigerator" ], [ "40", "table", "table (furniture)", "" ], [ "48", "stuff", "?", "" ], [ "54", "table", "table (furniture)", "" ], [ "59", "cup", "cup", "" ], [ "64", "cup", "cup", "" ], [ "68", "water", "water", "" ], [ "69", "bottle", "bottle", "" ], [ "75", "water", "water", "" ], [ "78", "cup", "cup", "" ], [ "83", "water", "water", "" ], [ "84", "bottle", "bottle", "" ], [ "93", "cup", "cup", "" ], [ "103", "table", "table (furniture)", "" ], [ "106", "water", "water", "" ], [ "107", "bottle", "bottle", "" ], [ "114", "fridge", "fridge", "refrigerator" ], [ "121", "dishwasher", "dishwasher", "" ], [ "128", "cup", "cup", "" ], [ "134", "cupboard", "cupboard", "" ], [ "141", "thing", "object (philosophy)", "" ], [ "146", "cup", "cup", "" ] ]
+  },
+  "14.2" : {
+    "text" : "hey armar go to the table grab the green cup and put it in the dishwasher",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "9", "cup", "cup", "" ], [ "15", "dishwasher", "dishwasher", "" ] ]
+  },
+  "14.1" : {
+    "text" : "hey armar go to the table grab the popcorn and bring it to me",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "8", "popcorn", "popcorn", "" ] ]
+  },
+  "33.3" : {
+    "text" : "Armar bring me the orange juice from the fridge",
+    "annotations" : [ [ "4", "orange", "orange (fruit)", "" ], [ "5", "juice", "juice", "" ], [ "8", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "10.3" : {
+    "text" : "Can you bring me the orange juice from the fridge",
+    "annotations" : [ [ "5", "orange", "orange (fruit)", "" ], [ "6", "juice", "juice", "" ], [ "9", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "33.2" : {
+    "text" : "Armar place the green cup from the table into the dishwasher and close it afterwards",
+    "annotations" : [ [ "4", "cup", "cup", "" ], [ "7", "table", "table (furniture)", "" ], [ "10", "dishwasher", "dishwasher", "" ] ]
+  },
+  "10.2" : {
+    "text" : "Can you put the green cup from the kitchen table in the dishwasher",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "8", "kitchen", "kitchen", "" ], [ "9", "table", "table (furniture)", "" ], [ "12", "dishwasher", "dishwasher", "" ] ]
+  },
+  "33.1" : {
+    "text" : "Armar bring me the bag of popcorn from the table",
+    "annotations" : [ [ "4", "bag", "bag", "" ], [ "6", "popcorn", "popcorn", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "10.1" : {
+    "text" : "Can you bring me the popcorn from the kitchen table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "8", "kitchen", "kitchen", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "3.1" : {
+    "text" : "Armar could you bring me the popcorn from the kitchen table please",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "9", "kitchen", "kitchen", "" ], [ "10", "table", "table (furniture)", "" ] ]
+  },
+  "3.2" : {
+    "text" : "Armar could you please take the green cup from the kitchen table and then move to the dishwasher and open it and then put the cup into the dishwasher and close it again",
+    "annotations" : [ [ "7", "cup", "cup", "" ], [ "10", "kitchen", "kitchen", "" ], [ "11", "table", "table (furniture)", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "25", "cup", "cup", "" ], [ "28", "dishwasher", "dishwasher", "" ] ]
+  },
+  "3.3" : {
+    "text" : "Armar would you please go to the fridge and open it take out the orange juice and bring it to me",
+    "annotations" : [ [ "7", "fridge", "fridge", "refrigerator" ], [ "14", "orange", "orange (fruit)", "" ], [ "15", "juice", "juice", "" ] ]
+  },
+  "7.1" : {
+    "text" : "Can you grab me the box of popcorn on the table it is next to the cereal box",
+    "annotations" : [ [ "5", "box", "box", "" ], [ "7", "popcorn", "popcorn", "" ], [ "10", "table", "table (furniture)", "" ], [ "16", "cereal", "cereal", "" ], [ "17", "box", "box", "" ] ]
+  },
+  "7.2" : {
+    "text" : "Can you please put the green cup on the table in the dishwasher and please do not forget to close the dishwasher afterwards",
+    "annotations" : [ [ "6", "cup", "cup", "" ], [ "9", "table", "table (furniture)", "" ], [ "12", "dishwasher", "dishwasher", "" ], [ "21", "dishwasher", "dishwasher", "" ] ]
+  },
+  "18.3" : {
+    "text" : "Armar go to the fridge open the door take a orange juice close the door and take it to me",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "7", "door", "door", "" ], [ "10", "orange", "orange (fruit)", "" ], [ "11", "juice", "juice", "" ], [ "14", "door", "door", "" ] ]
+  },
+  "7.3" : {
+    "text" : "Can you please bring me the orange juice from the fridge please",
+    "annotations" : [ [ "6", "orange", "orange (fruit)", "" ], [ "7", "juice", "juice", "" ], [ "10", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "18.2" : {
+    "text" : "hello Armar could you go to the table and take the green cup please put it in the dishwasher and close it",
+    "annotations" : [ [ "7", "table", "table (furniture)", "" ], [ "12", "cup", "cup", "" ], [ "18", "dishwasher", "dishwasher", "" ] ]
+  },
+  "18.1" : {
+    "text" : "go to the table take the popcorn give it to me",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "6", "popcorn", "popcorn", "" ] ]
+  },
+  "14.3" : {
+    "text" : "hey armar go to the fridge open the fridge take the orange juice close the fridge and bring the orange juice to me",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "8", "fridge", "fridge", "refrigerator" ], [ "11", "orange", "orange (fruit)", "" ], [ "12", "juice", "juice", "" ], [ "15", "fridge", "fridge", "refrigerator" ], [ "19", "orange", "orange (fruit)", "" ], [ "20", "juice", "juice", "" ] ]
+  },
+  "21.3b" : {
+    "text" : "Armar I am thursty please go to the fridge open it eh and scan for the orange juice it should be in front of you then grab it then close the fridge and eh turn over and come here and hand it to me",
+    "annotations" : [ [ "8", "fridge", "fridge", "refrigerator" ], [ "16", "orange", "orange (fruit)", "" ], [ "17", "juice", "juice", "" ], [ "22", "front", "?", "" ], [ "31", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "21.3a" : {
+    "text" : "can you bring me the orange juice from the fridge",
+    "annotations" : [ [ "5", "orange", "orange (fruit)", "" ], [ "6", "juice", "juice", "" ], [ "9", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "if.4.17" : {
+    "text" : "armar please look on the table if you see dirty dishes please put them into the dishwasher if you see clean dishes put it into the cupboard",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "10", "dishes", "dishware", "" ], [ "16", "dishwasher", "dishwasher", "" ], [ "21", "dishes", "dishware", "" ], [ "26", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.16" : {
+    "text" : "hello armar have a look at the table if you find dirty dishes put them into the dishwasher and if there are clean please store them in the cupboard",
+    "annotations" : [ [ "4", "look", "?", "" ], [ "7", "table", "table (furniture)", "" ], [ "12", "dishes", "dishware", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "26", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.19" : {
+    "text" : "look at the table take an object if it is dirty put it in the dishwasher and if it is dirty put it in the cupboard",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "6", "object", "object (philosophy)", "" ], [ "15", "dishwasher", "dishwasher", "" ], [ "25", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.18" : {
+    "text" : "armar could you go to the table and if there are dirty dishes put the dirty dishes in the dishwasher and the clean dishes in the cupboard please",
+    "annotations" : [ [ "6", "table", "table (furniture)", "" ], [ "12", "dishes", "dishware", "" ], [ "16", "dishes", "dishware", "" ], [ "19", "dishwasher", "dishwasher", "" ], [ "23", "dishes", "dishware", "" ], [ "26", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.13" : {
+    "text" : "put the dirty dishes into the dishwasher and the clean dishes in the cupboard above the dishwasher",
+    "annotations" : [ [ "3", "dishes", "dishware", "" ], [ "6", "dishwasher", "dishwasher", "" ], [ "10", "dishes", "dishware", "" ], [ "13", "cupboard", "cupboard", "" ], [ "16", "dishwasher", "dishwasher", "" ] ]
+  },
+  "25.2" : {
+    "text" : "Armar take the green cup and put it into the dishwasher and the close the dishwasher please",
+    "annotations" : [ [ "4", "cup", "cup", "" ], [ "10", "dishwasher", "dishwasher", "" ], [ "15", "dishwasher", "dishwasher", "" ] ]
+  },
+  "if.4.12" : {
+    "text" : "hello armar go to the kitchen table please check if there are some dirty dishes on the table if there are some put them in the dishwasher if there are not dirty put them in the cupboard",
+    "annotations" : [ [ "5", "kitchen", "kitchen", "" ], [ "6", "table", "table (furniture)", "" ], [ "14", "dishes", "dishware", "" ], [ "17", "table", "table (furniture)", "" ], [ "26", "dishwasher", "dishwasher", "" ], [ "36", "cupboard", "cupboard", "" ] ]
+  },
+  "25.1" : {
+    "text" : "Armar bring me the popcorn which is on the table please",
+    "annotations" : [ [ "4", "popcorn", "popcorn", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "if.4.15" : {
+    "text" : "hi robo please look at the table if there are dirty dishes please put it in the dishwasher and if there are clean dishes put it in the cupboard",
+    "annotations" : [ [ "6", "table", "table (furniture)", "" ], [ "11", "dishes", "dishware", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "23", "dishes", "dishware", "" ], [ "28", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.14" : {
+    "text" : "hi armar please go to the table and take all the dirty dishes into the dishwasher the clean dishes should go to the cupboard",
+    "annotations" : [ [ "6", "table", "table (furniture)", "" ], [ "12", "dishes", "dishware", "" ], [ "15", "dishwasher", "dishwasher", "" ], [ "18", "dishes", "dishware", "" ], [ "23", "cupboard", "cupboard", "" ] ]
+  },
+  "21.2" : {
+    "text" : "can you put the green cup into the dishwasher",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "8", "dishwasher", "dishwasher", "" ] ]
+  },
+  "21.1" : {
+    "text" : "can you bring me the popcorn from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "8", "table", "table (furniture)", "" ] ]
+  },
+  "if.4.11" : {
+    "text" : "please go to the table if there is dirty dishes put it into the dishwasher if the dishes is clean please put it to the cupboard",
+    "annotations" : [ [ "4", "table", "table (furniture)", "" ], [ "9", "dishes", "dishware", "" ], [ "14", "dishwasher", "dishwasher", "" ], [ "17", "dishes", "dishware", "" ], [ "25", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.10" : {
+    "text" : "robo go to the table if there are any dirty dishes grab the dirty dishes and go to the dishwasher open the dishwasher and put the dirty dishes into the dishwasher close the dishwasher and return to the table if there are any clean dishes grab the clean dishes and go to the cupboard open the cupboard and put the clean dishes into the cupboard",
+    "annotations" : [ [ "4", "table", "table (furniture)", "" ], [ "10", "dishes", "dishware", "" ], [ "14", "dishes", "dishware", "" ], [ "19", "dishwasher", "dishwasher", "" ], [ "22", "dishwasher", "dishwasher", "" ], [ "27", "dishes", "dishware", "" ], [ "30", "dishwasher", "dishwasher", "" ], [ "33", "dishwasher", "dishwasher", "" ], [ "38", "table", "table (furniture)", "" ], [ "44", "dishes", "dishware", "" ], [ "48", "dishes", "dishware", "" ], [ "53", "cupboard", "cupboard", "" ], [ "56", "cupboard", "cupboard", "" ], [ "61", "dishes", "dishware", "" ], [ "64", "cupboard", "cupboard", "" ] ]
+  },
+  "29.3" : {
+    "text" : "hey armar could you bring me the orange juice it s in the fridge in front of the multi vitamin juice and the water bottle",
+    "annotations" : [ [ "7", "orange", "orange (fruit)", "" ], [ "8", "juice", "juice", "" ], [ "13", "fridge", "fridge", "refrigerator" ], [ "5", "front", "?", "" ], [ "19", "vitamin", "vitamin", "" ], [ "20", "juice", "juice", "" ], [ "23", "water", "water", "" ], [ "24", "bottle", "bottle", "" ] ]
+  },
+  "29.2" : {
+    "text" : "Armar could you please place the green cup to the red cups into the dishwasher and close the door please",
+    "annotations" : [ [ "7", "cup", "cup", "" ], [ "11", "cups", "cup", "" ], [ "14", "dishwasher", "dishwasher", "" ], [ "18", "door", "door", "" ] ]
+  },
+  "29.1" : {
+    "text" : "Armar could you please bring me the popcorn it is on the black table between the cereals and the green cup",
+    "annotations" : [ [ "7", "popcorn", "popcorn", "" ], [ "13", "table", "table (furniture)", "" ], [ "16", "cereals", "cereals", "cereal" ], [ "20", "cup", "cup", "" ] ]
+  },
+  "25.3" : {
+    "text" : "armar open the fridge and take the orange juice afterwards close the fridge and bring me the orange juice",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "7", "orange", "orange (fruit)", "" ], [ "8", "juice", "juice", "" ], [ "12", "fridge", "fridge", "refrigerator" ], [ "17", "orange", "orange (fruit)", "" ], [ "18", "juice", "juice", "" ] ]
+  },
+  "13.3" : {
+    "text" : "go to the fridge open the fridge and take the orange juice bring the orange juice to me please",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "6", "fridge", "fridge", "refrigerator" ], [ "10", "orange", "orange (fruit)", "" ], [ "11", "juice", "juice", "" ], [ "14", "orange", "orange (fruit)", "" ], [ "15", "juice", "juice", "" ] ]
+  },
+  "36.2" : {
+    "text" : "Hello Armar could you take the green cup from the table into the dishwasher please",
+    "annotations" : [ [ "7", "cup", "cup", "" ], [ "10", "table", "table (furniture)", "" ], [ "13", "dishwasher", "dishwasher", "" ] ]
+  },
+  "13.2" : {
+    "text" : "go to the table and take the green cup then bring the cup to the dishwasher first open the dishwasher put the cup inside it and then close the dishwasher",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "8", "cup", "cup", "" ], [ "12", "cup", "cup", "" ], [ "15", "dishwasher", "dishwasher", "" ], [ "19", "dishwasher", "dishwasher", "" ], [ "22", "cup", "cup", "" ], [ "29", "dishwasher", "dishwasher", "" ] ]
+  },
+  "if.4.9" : {
+    "text" : "hey armar look at the kitchen table if the dishes are dirty put them into the dishwasher and if the dishes are clean put them into the cupboard",
+    "annotations" : [ [ "5", "kitchen", "kitchen", "" ], [ "6", "table", "table (furniture)", "" ], [ "9", "dishes", "dishware", "" ], [ "16", "dishwasher", "dishwasher", "" ], [ "20", "dishes", "dishware", "" ], [ "27", "cupboard", "cupboard", "" ] ]
+  },
+  "36.1" : {
+    "text" : "Hello Armar please bring me the popcorn from the table",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "13.1" : {
+    "text" : "go to the table in front of the window and take the popcorn and bring it to me",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "5", "front", "?", "" ], [ "8", "window", "window", "" ], [ "12", "popcorn", "popcorn", "" ] ]
+  },
+  "if.4.8" : {
+    "text" : "hello armar could you please put the dirty dishes into the dishwasher and the clean dishes up into the cupboard",
+    "annotations" : [ [ "8", "dishes", "dishware", "" ], [ "11", "dishwasher", "dishwasher", "" ], [ "15", "dishes", "dishware", "" ], [ "19", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.7" : {
+    "text" : "hello can you please take the dirty dishes and put it into the dishwasher and the clean ones you take into the cupboard",
+    "annotations" : [ [ "7", "dishes", "dishware", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "17", "ones", "one (pronoun)", "" ], [ "22", "cupboard", "cupboard", "" ] ]
+  },
+  "32.3" : {
+    "text" : "Hello Armar Go to the fridge open the fridge door and bring me the orange juice that is located there and close the door of the fridge",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "8", "fridge", "fridge", "refrigerator" ], [ "9", "door", "door", "" ], [ "14", "orange", "orange (fruit)", "" ], [ "15", "juice", "juice", "" ], [ "23", "door", "door", "" ], [ "26", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "if.4.6" : {
+    "text" : "armar look on the kitchen table if there is dirty dishes on it please put them into dishwasher if they are clean put them into the cupboard",
+    "annotations" : [ [ "4", "kitchen", "kitchen", "" ], [ "5", "table", "table (furniture)", "" ], [ "10", "dishes", "dishware", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "26", "cupboard", "cupboard", "" ] ]
+  },
+  "32.2" : {
+    "text" : "Hello Armar bring the green cup from the table into the dishwasher and close the door",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "8", "table", "table (furniture)", "" ], [ "11", "dishwasher", "dishwasher", "" ], [ "15", "door", "door", "" ] ]
+  },
+  "2.1" : {
+    "text" : "Armar can you please bring me the popcorn bag",
+    "annotations" : [ [ "7", "popcorn", "popcorn", "" ], [ "8", "bag", "bag", "" ] ]
+  },
+  "if.4.5" : {
+    "text" : "hello armar look at the table there are dishes if they are dirty put them into the dishwasher and if they are clean put them into the cupboard",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "8", "dishes", "dishware", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "27", "cupboard", "cupboard", "" ] ]
+  },
+  "32.1" : {
+    "text" : "Hallo Armar bring me the popcorn bag from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "6", "bag", "bag", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "2.2" : {
+    "text" : "Armar please put the green cup into the dishwasher and do not forget to close it afterwards",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "8", "dishwasher", "dishwasher", "" ] ]
+  },
+  "if.4.4" : {
+    "text" : "ok hey armar if the dishes are dirty please put them into the dishwasher otherwise put them into the cupboard",
+    "annotations" : [ [ "5", "dishes", "dishware", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "19", "cupboard", "cupboard", "" ] ]
+  },
+  "2.3" : {
+    "text" : "Armar I would like to have the orange juice you can find it in the fridge somewhere in the front",
+    "annotations" : [ [ "7", "orange", "orange (fruit)", "" ], [ "8", "juice", "juice", "" ], [ "15", "fridge", "fridge", "refrigerator" ], [ "19", "front", "?", "" ] ]
+  },
+  "if.4.3" : {
+    "text" : "armar please check the table if there are any dirty dishes if there are dirty dishes please put them in the dishwasher if there are clean dishes please put them in the cupboards",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "10", "dishes", "dishware", "" ], [ "15", "dishes", "dishware", "" ], [ "21", "dishwasher", "dishwasher", "" ], [ "26", "dishes", "dishware", "" ], [ "32", "cupboard", "cupboard", "" ] ]
+  },
+  "if.4.2" : {
+    "text" : "hey armar could you please have a look at the table if there are dirty dishes put them in the dishwasher if they are clean put them in the cupboard",
+    "annotations" : [ [ "7", "look", "?", "" ], [ "10", "table", "table (furniture)", "" ], [ "15", "dishes", "dishware", "" ], [ "20", "dishwasher", "dishwasher", "" ], [ "29", "cupboard", "cupboard", "" ] ]
+  },
+  "6.1" : {
+    "text" : "Armar please bring me the popcorn bag from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "6", "bag", "bag", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "if.4.1" : {
+    "text" : "hey armar could you please have a look at these dishes if they are dirty put them into the dishwasher if they are not dirty put them into the cupboard",
+    "annotations" : [ [ "7", "look", "?", "" ], [ "10", "dishes", "dishware", "" ], [ "19", "dishwasher", "dishwasher", "" ], [ "29", "cupboard", "cupboard", "" ] ]
+  },
+  "6.2" : {
+    "text" : "Armar put the green cup from the table to the dishwasher then close it",
+    "annotations" : [ [ "4", "cup", "cup", "" ], [ "7", "table", "table (furniture)", "" ], [ "10", "dishwasher", "dishwasher", "" ] ]
+  },
+  "6.3" : {
+    "text" : "Armar open the fridge and bring me the orange juice",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ] ]
+  },
+  "17.3" : {
+    "text" : "Armar could you bring me the orange juice it is stored in the fridge",
+    "annotations" : [ [ "6", "orange", "orange (fruit)", "" ], [ "7", "juice", "juice", "" ], [ "13", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "17.2" : {
+    "text" : "Armar could you please clean up the the table and put the green cup in the dishwasher",
+    "annotations" : [ [ "8", "table", "table (furniture)", "" ], [ "13", "cup", "cup", "" ], [ "16", "dishwasher", "dishwasher", "" ] ]
+  },
+  "17.1" : {
+    "text" : "Armar would you please pass me the popcorn",
+    "annotations" : [ [ "7", "popcorn", "popcorn", "" ] ]
+  },
+  "36.3" : {
+    "text" : "Hello Armar could you bring me the orange juice from the fridge please",
+    "annotations" : [ [ "7", "orange", "orange (fruit)", "" ], [ "8", "juice", "juice", "" ], [ "11", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "s7p10" : {
+    "text" : "Go to the dishwasher and take one plate out wash this plate and then go to the fridge\nput the em meal instant meal on the plate and bring it to the mac microwave\nput it into the microwave then after it is warmed up put the ehm meal on the plate and bring the plate to the table",
+    "annotations" : [ [ "3", "dishwasher", "dishwasher", "" ], [ "7", "plate", "plate (dishware)", "" ], [ "11", "plate", "plate (dishware)", "" ], [ "17", "fridge", "fridge", "refrigerator" ], [ "21", "meal", "meal", "" ], [ "23", "meal", "meal", "" ], [ "26", "plate", "plate (dishware)", "" ], [ "33", "microwave", "microwave", "" ], [ "38", "microwave", "microwave", "" ], [ "48", "meal", "meal", "" ], [ "51", "plate", "plate (dishware)", "" ], [ "55", "plate", "plate (dishware)", "" ], [ "58", "table", "table (furniture)", "" ] ]
+  },
+  "24.3" : {
+    "text" : "Hello Armar open the fridge and bring me the orange juice After that go to the fridge and close the fridge",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "9", "orange", "orange (fruit)", "" ], [ "10", "juice", "juice", "" ], [ "16", "fridge", "fridge", "refrigerator" ], [ "20", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "24.2" : {
+    "text" : "Hello Armar put the green cup from the into the dishwasher and close the dishwasher",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "10", "dishwasher", "dishwasher", "" ], [ "14", "dishwasher", "dishwasher", "" ] ]
+  },
+  "24.1" : {
+    "text" : "Hello Armar bring me the popcorn bag from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "6", "bag", "bag", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "20.3" : {
+    "text" : "Armar go to the fridge and get me orange juice",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ] ]
+  },
+  "20.2" : {
+    "text" : "Armar put the green cup into the dishwasher",
+    "annotations" : [ [ "4", "cup", "cup", "" ], [ "7", "dishwasher", "dishwasher", "" ] ]
+  },
+  "20.1" : {
+    "text" : "hey Armar go and get the popcorn bag for me please",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "7", "bag", "bag", "" ] ]
+  },
+  "28.3" : {
+    "text" : "Good morning Armar I would like to have orange juice for breakfast so could you please place it from the fridge onto the black table but don't confuse it with the multi vitamine juice okay thank you",
+    "annotations" : [ [ "5", "morning", "morning", "" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ], [ "11", "breakfast", "breakfast", "" ], [ "20", "fridge", "fridge", "refrigerator" ], [ "24", "table", "table (furniture)", "" ], [ "32", "vitamine", "vitamin", "" ], [ "33", "juice", "juice", "" ] ]
+  },
+  "28.2" : {
+    "text" : "Armar i need all my cups tonight for the party so please also place the green cup from the table into the dishwasher and switch it on but don't forget to close the dishwasher before okay",
+    "annotations" : [ [ "5", "cups", "cup", "" ], [ "9", "party", "party", "" ], [ "16", "cup", "cup", "" ], [ "19", "table", "table (furniture)", "" ], [ "22", "dishwasher", "dishwasher", "" ], [ "33", "dishwasher", "dishwasher", "" ] ]
+  },
+  "28.1" : {
+    "text" : "Armar could you please bring me the popcorn which is on the left side of the green cup Thank you",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "6", "side", "?", "" ], [ "17", "cup", "cup", "" ] ]
+  },
+  "s7p03" : {
+    "text" : "Go to the dishwasher open the dishwasher take one plate and close the dishwasher again\ngo to the sink with the plate and clean the plate\nafterwards go to the fridge open the fridge take one instant meal out of the fridge and close the fridge again\nthen open the instant meal put the content on a plate go to the microwave open the microwave and put the plate inside close the microwave and press start\nwait until it's warm\nsay it's finished with a pling and ready\nopen the microwave take the plate out close the microwave again and take the plate to the table and put the plate on the table",
+    "annotations" : [ [ "3", "dishwasher", "dishwasher", "" ], [ "6", "dishwasher", "dishwasher", "" ], [ "9", "plate", "plate (dishware)", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "18", "sink", "sink", "" ], [ "21", "plate", "plate (dishware)", "" ], [ "25", "plate", "plate (dishware)", "" ], [ "30", "fridge", "fridge", "refrigerator" ], [ "33", "fridge", "fridge", "refrigerator" ], [ "37", "meal", "meal", "" ], [ "41", "fridge", "fridge", "refrigerator" ], [ "45", "fridge", "fridge", "refrigerator" ], [ "51", "meal", "meal", "" ], [ "54", "content", "?", "" ], [ "57", "plate", "plate (dishware)", "" ], [ "61", "microwave", "microwave", "" ], [ "64", "microwave", "microwave", "" ], [ "68", "plate", "plate (dishware)", "" ], [ "72", "microwave", "microwave", "" ], [ "75", "start", "?", "" ], [ "90", "microwave", "microwave", "" ], [ "93", "plate", "plate (dishware)", "" ], [ "97", "microwave", "microwave", "" ], [ "102", "plate", "plate (dishware)", "" ], [ "105", "table", "table (furniture)", "" ], [ "109", "plate", "plate (dishware)", "" ], [ "112", "table", "table (furniture)", "" ] ]
+  },
+  "s7p02" : {
+    "text" : "Armar please prepare me a meal\nthere are plates in the dishwasher please get a plate from the dishwasher and clean it\nafterwards put the instant meal from the fridge on it and warm it in the microwave for two minutes\nwhen it is done get the plate out of the microwave and put it on the table\nthen you are done",
+    "annotations" : [ [ "5", "meal", "meal", "" ], [ "8", "plates", "plate (dishware)", "" ], [ "11", "dishwasher", "dishwasher", "" ], [ "15", "plate", "plate (dishware)", "" ], [ "18", "dishwasher", "dishwasher", "" ], [ "26", "meal", "meal", "" ], [ "29", "fridge", "fridge", "refrigerator" ], [ "37", "microwave", "microwave", "" ], [ "40", "minutes", "minute", "" ], [ "47", "plate", "plate (dishware)", "" ], [ "51", "microwave", "microwave", "" ], [ "57", "table", "table (furniture)", "" ] ]
+  },
+  "s7p01" : {
+    "text" : "Ok first step go to the dishwasher and open it\ntake out one plate and give the plate a wash\nthen place the plate somewhere on the table\ngo to the fridge open it and grab an instant meal\nnow take the instant meal go to the place where you placed the plate and put the instant meal on the plate\nnow take the whole plate with the instant meal go to the microwave open it and put the plate in the microwave\nnow activate the microwave\nwhen it's done open the microwave grab the plate go to the table and put the plate on it",
+    "annotations" : [ [ "2", "step", "?", "" ], [ "6", "dishwasher", "dishwasher", "" ], [ "13", "plate", "plate (dishware)", "" ], [ "17", "plate", "plate (dishware)", "" ], [ "19", "wash", "?", "" ], [ "23", "plate", "plate (dishware)", "" ], [ "27", "table", "table (furniture)", "" ], [ "31", "fridge", "fridge", "refrigerator" ], [ "38", "meal", "meal", "" ], [ "43", "meal", "meal", "" ], [ "47", "place", "?", "" ], [ "52", "plate", "plate (dishware)", "" ], [ "57", "meal", "meal", "" ], [ "60", "plate", "plate (dishware)", "" ], [ "65", "plate", "plate (dishware)", "" ], [ "69", "meal", "meal", "" ], [ "73", "microwave", "microwave", "" ], [ "79", "plate", "plate (dishware)", "" ], [ "82", "microwave", "microwave", "" ], [ "86", "microwave", "microwave", "" ], [ "92", "microwave", "microwave", "" ], [ "95", "plate", "plate (dishware)", "" ], [ "99", "table", "table (furniture)", "" ], [ "103", "plate", "plate (dishware)", "" ] ]
+  },
+  "if.5.18" : {
+    "text" : "armar could you go to the fridge and if there are fresh oranges bring them and vodka to the table and if not bring orange juice and vodka to the table",
+    "annotations" : [ [ "6", "fridge", "fridge", "refrigerator" ], [ "12", "oranges", "orange (fruit)", "" ], [ "16", "vodka", "vodka", "" ], [ "19", "table", "table (furniture)", "" ], [ "24", "orange", "orange (fruit)", "" ], [ "25", "juice", "juice", "" ], [ "27", "vodka", "vodka", "" ], [ "30", "table", "table (furniture)", "" ] ]
+  },
+  "if.5.17" : {
+    "text" : "armar please go to the fridge and bring me vodka and if there are fresh oranges bring me these if not bring me orange juice",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "9", "vodka", "vodka", "" ], [ "15", "oranges", "orange (fruit)", "" ], [ "23", "orange", "orange (fruit)", "" ], [ "24", "juice", "juice", "" ] ]
+  },
+  "if.5.19" : {
+    "text" : "go to the fridge open the fridge if there are fresh oranges take the oranges and the vodka if there are no fresh oranges take the orange juice and the vodka close the fridge and take them to the table",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "6", "fridge", "fridge", "refrigerator" ], [ "11", "oranges", "orange (fruit)", "" ], [ "14", "oranges", "orange (fruit)", "" ], [ "17", "vodka", "vodka", "" ], [ "23", "oranges", "orange (fruit)", "" ], [ "26", "orange", "orange (fruit)", "" ], [ "27", "juice", "juice", "" ], [ "30", "vodka", "vodka", "" ], [ "33", "fridge", "fridge", "refrigerator" ], [ "39", "table", "table (furniture)", "" ] ]
+  },
+  "if.5.9" : {
+    "text" : "hey armar bring me vodka and then go to the fridge if there are fresh oranges in the fridge bring them to me and otherwise bring me orange juice",
+    "annotations" : [ [ "4", "vodka", "vodka", "" ], [ "10", "fridge", "fridge", "refrigerator" ], [ "15", "oranges", "orange (fruit)", "" ], [ "18", "fridge", "fridge", "refrigerator" ], [ "27", "orange", "orange (fruit)", "" ], [ "28", "juice", "juice", "" ] ]
+  },
+  "if.5.14" : {
+    "text" : "hi armar please go to the fridge and look if there are any fresh oranges if there are any bring them with you and the vodka otherwise bring orange juice and the vodka",
+    "annotations" : [ [ "6", "fridge", "fridge", "refrigerator" ], [ "14", "oranges", "orange (fruit)", "" ], [ "25", "vodka", "vodka", "" ], [ "28", "orange", "orange (fruit)", "" ], [ "29", "juice", "juice", "" ], [ "32", "vodka", "vodka", "" ] ]
+  },
+  "35.3" : {
+    "text" : "Hello Armar bring me the one liter of orange juice which is at the front in the fridge I am very thirsty The orange juice is between Apollinaris and multivitamin Naktar in a blue colour box",
+    "annotations" : [ [ "6", "liter", "litre", "liter" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ], [ "14", "front", "?", "" ], [ "17", "fridge", "fridge", "refrigerator" ], [ "23", "orange", "orange (fruit)", "" ], [ "24", "juice", "juice", "" ], [ "30", "Naktar", "nectar (drink)", "" ], [ "34", "colour", "colour", "" ], [ "35", "box", "box", "" ] ]
+  },
+  "12.3" : {
+    "text" : "uhm go to to the fridge open the fridge uhm get the orange juice uhm close the fridge uhm bring the orange juice to me",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "8", "fridge", "fridge", "refrigerator" ], [ "12", "orange", "orange (fruit)", "" ], [ "13", "juice", "juice", "" ], [ "17", "fridge", "fridge", "refrigerator" ], [ "21", "orange", "orange (fruit)", "" ], [ "22", "juice", "juice", "" ] ]
+  },
+  "if.5.8" : {
+    "text" : "hello armar I would like a screwdriver so please get me some fresh oranges or if there are no fresh oranges bring me orange juice and together with vodka",
+    "annotations" : [ [ "6", "screwdriver", "screwdriver (cocktail)", "" ], [ "13", "oranges", "orange (fruit)", "" ], [ "20", "oranges", "orange (fruit)", "" ], [ "23", "orange", "orange (fruit)", "" ], [ "24", "juice", "juice", "" ], [ "28", "vodka", "vodka", "" ] ]
+  },
+  "if.5.13" : {
+    "text" : "go to the fridge and check if there are fresh oranges if there are fresh oranges bring me them along with the vodka otherwise just bring me orange juice and vodka",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "10", "oranges", "orange (fruit)", "" ], [ "15", "oranges", "orange (fruit)", "" ], [ "22", "vodka", "vodka", "" ], [ "27", "orange", "orange (fruit)", "" ], [ "28", "juice", "juice", "" ], [ "30", "vodka", "vodka", "" ] ]
+  },
+  "35.2" : {
+    "text" : "Hello Armar bring the green cup which is between popcorn and Nesquik in the dishwasher Thank you",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "9", "popcorn", "popcorn", "" ], [ "14", "dishwasher", "dishwasher", "" ] ]
+  },
+  "12.2" : {
+    "text" : "uhm go to the table uhm take the green cup uhm then go to the dishwasher open the dishwasher uhm put the green green cup ehm in the dishwasher and close the dishwasher",
+    "annotations" : [ [ "4", "table", "table (furniture)", "" ], [ "9", "cup", "cup", "" ], [ "15", "dishwasher", "dishwasher", "" ], [ "18", "dishwasher", "dishwasher", "" ], [ "24", "cup", "cup", "" ], [ "28", "dishwasher", "dishwasher", "" ], [ "32", "dishwasher", "dishwasher", "" ] ]
+  },
+  "if.5.7" : {
+    "text" : "hi I want to make some screwdriver can you bring me some orange juice and vodka if there are fresh oranges in the fridge can you bring me them with the vodka otherwise you bring me just the orange juice and the vodka",
+    "annotations" : [ [ "6", "screwdriver", "screwdriver (cocktail)", "" ], [ "12", "orange", "orange (fruit)", "" ], [ "13", "juice", "juice", "" ], [ "15", "vodka", "vodka", "" ], [ "20", "oranges", "orange (fruit)", "" ], [ "23", "fridge", "fridge", "refrigerator" ], [ "31", "vodka", "vodka", "" ], [ "38", "orange", "orange (fruit)", "" ], [ "39", "juice", "juice", "" ], [ "42", "vodka", "vodka", "" ] ]
+  },
+  "if.5.16" : {
+    "text" : "hello armar have a look at the fridge if there are oranges please bring them with the vodka and if there are no oranges please bring the orange juice and the vodka",
+    "annotations" : [ [ "4", "look", "?", "" ], [ "7", "fridge", "fridge", "refrigerator" ], [ "11", "oranges", "orange (fruit)", "" ], [ "17", "vodka", "vodka", "" ], [ "23", "oranges", "orange (fruit)", "" ], [ "27", "orange", "orange (fruit)", "" ], [ "28", "juice", "juice", "" ], [ "31", "vodka", "vodka", "" ] ]
+  },
+  "35.1" : {
+    "text" : "Hello Armar bring me the popcorn from the table He stands between Vitalis and cup Thank you very much",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "8", "table", "table (furniture)", "" ], [ "14", "cup", "cup", "" ] ]
+  },
+  "12.1" : {
+    "text" : "okay go to the kitchen table ehm get the popcorn and bring it to me",
+    "annotations" : [ [ "4", "kitchen", "kitchen", "" ], [ "5", "table", "table (furniture)", "" ], [ "9", "popcorn", "popcorn", "" ] ]
+  },
+  "if.5.6" : {
+    "text" : "armar please get me some vodka from the fridge and if there are fresh oranges please bring them otherwise you have to give me the orange juice",
+    "annotations" : [ [ "5", "vodka", "vodka", "" ], [ "8", "fridge", "fridge", "refrigerator" ], [ "14", "oranges", "orange (fruit)", "" ], [ "25", "orange", "orange (fruit)", "" ], [ "26", "juice", "juice", "" ] ]
+  },
+  "if.5.15" : {
+    "text" : "hi robo please look in the fridge if there are fresh oranges please give it to me if there are none please bring me the orange juice",
+    "annotations" : [ [ "6", "fridge", "fridge", "refrigerator" ], [ "11", "oranges", "orange (fruit)", "" ], [ "20", "none", "?", "" ], [ "25", "orange", "orange (fruit)", "" ], [ "26", "juice", "juice", "" ] ]
+  },
+  "1.1" : {
+    "text" : "okay Armar go to the table grab popcorn come to me give me the popcorn which is in your hand",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "7", "popcorn", "popcorn", "" ], [ "14", "popcorn", "popcorn", "" ], [ "19", "hand", "hand", "" ] ]
+  },
+  "if.5.5" : {
+    "text" : "hello armar I want to make some drinks go to the fridge and if there fresh oranges bring me the fresh oranges together with vodka otherwise bring me just orange juice and the vodka",
+    "annotations" : [ [ "7", "drinks", "drink", "" ], [ "11", "fridge", "fridge", "refrigerator" ], [ "16", "oranges", "orange (fruit)", "" ], [ "21", "oranges", "orange (fruit)", "" ], [ "24", "vodka", "vodka", "" ], [ "29", "orange", "orange (fruit)", "" ], [ "30", "juice", "juice", "" ], [ "33", "vodka", "vodka", "" ] ]
+  },
+  "if.5.10" : {
+    "text" : "robo go to the fridge open it look for the vodka and take it grab the fresh oranges if there are any otherwise grab the orange juice",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "10", "vodka", "vodka", "" ], [ "17", "oranges", "orange (fruit)", "" ], [ "25", "orange", "orange (fruit)", "" ], [ "26", "juice", "juice", "" ] ]
+  },
+  "31.3" : {
+    "text" : "Hey Armar bring me the orange juice from the fridge please",
+    "annotations" : [ [ "5", "orange", "orange (fruit)", "" ], [ "6", "juice", "juice", "" ], [ "9", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "1.2" : {
+    "text" : "okay Armar go to the table take the green cup go to the dishwasher open it put the green cup into the dishwasher and close it",
+    "annotations" : [ [ "5", "table", "table (furniture)", "" ], [ "9", "cup", "cup", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "19", "cup", "cup", "" ], [ "22", "dishwasher", "dishwasher", "" ] ]
+  },
+  "if.5.4" : {
+    "text" : "go to the fridge and bring me some fresh oranges otherwise get me some orange juice and the vodka please",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "9", "oranges", "orange (fruit)", "" ], [ "14", "orange", "orange (fruit)", "" ], [ "15", "juice", "juice", "" ], [ "18", "vodka", "vodka", "" ] ]
+  },
+  "31.2" : {
+    "text" : "Hey Armar please place the green cup from the kitchen table into the dishwasher",
+    "annotations" : [ [ "6", "cup", "cup", "" ], [ "9", "kitchen", "kitchen", "" ], [ "10", "table", "table (furniture)", "" ], [ "13", "dishwasher", "dishwasher", "" ] ]
+  },
+  "1.3" : {
+    "text" : "okay Armar go to the fridge open it look for the orange juice and take it close the fridge and bring the juice to me",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "11", "orange", "orange (fruit)", "" ], [ "12", "juice", "juice", "" ], [ "18", "fridge", "fridge", "refrigerator" ], [ "22", "juice", "juice", "" ] ]
+  },
+  "if.5.3" : {
+    "text" : "armar please check if there are any fresh oranges in the fridge then bring them to me together with vodka if there are no fresh oranges please bring me some oranges juice",
+    "annotations" : [ [ "8", "oranges", "orange (fruit)", "" ], [ "11", "fridge", "fridge", "refrigerator" ], [ "19", "vodka", "vodka", "" ], [ "25", "oranges", "orange (fruit)", "" ], [ "30", "oranges", "orange (fruit)", "" ], [ "31", "juice", "juice", "" ] ]
+  },
+  "if.5.12" : {
+    "text" : "hello armar I would want to have some vodka with fresh orange please go to the fridge and check if there are some fresh orange if there are not any please make me a vodka with orange juice",
+    "annotations" : [ [ "8", "vodka", "vodka", "" ], [ "11", "orange", "orange (fruit)", "" ], [ "16", "fridge", "fridge", "refrigerator" ], [ "24", "orange", "orange (fruit)", "" ], [ "34", "vodka", "vodka", "" ], [ "36", "orange", "orange (fruit)", "" ], [ "37", "juice", "juice", "" ] ]
+  },
+  "31.1" : {
+    "text" : "Hey Armar bring me the popcorn from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "8", "table", "table (furniture)", "" ] ]
+  },
+  "if.5.2" : {
+    "text" : "armar please have a look into the fridge if there are fresh oranges bring them alongside with the vodka else please bring orange juice",
+    "annotations" : [ [ "4", "look", "?", "" ], [ "7", "fridge", "fridge", "refrigerator" ], [ "12", "oranges", "orange (fruit)", "" ], [ "18", "vodka", "vodka", "" ], [ "22", "orange", "orange (fruit)", "" ], [ "23", "juice", "juice", "" ] ]
+  },
+  "if.5.11" : {
+    "text" : "please mix me a screwdriver for this you need vodka and orange juice please go to the fridge and look if there are fresh oranges if there are no fresh oranges please bring me the orange juice",
+    "annotations" : [ [ "4", "screwdriver", "screwdriver (cocktail)", "" ], [ "9", "vodka", "vodka", "" ], [ "11", "orange", "orange (fruit)", "" ], [ "12", "juice", "juice", "" ], [ "17", "fridge", "fridge", "refrigerator" ], [ "24", "oranges", "orange (fruit)", "" ], [ "30", "oranges", "orange (fruit)", "" ], [ "35", "orange", "orange (fruit)", "" ], [ "36", "juice", "juice", "" ] ]
+  },
+  "5.1" : {
+    "text" : "Hey Armar go to kitchen table take the popcorn bag and bring it to me",
+    "annotations" : [ [ "4", "kitchen", "kitchen", "" ], [ "5", "table", "table (furniture)", "" ], [ "8", "popcorn", "popcorn", "" ], [ "9", "bag", "bag", "" ] ]
+  },
+  "if.5.1" : {
+    "text" : "hey armar could you please open the fridge if there are fresh oranges bring them with the vodka else bring the orange juice and the vodka",
+    "annotations" : [ [ "7", "fridge", "fridge", "refrigerator" ], [ "12", "oranges", "orange (fruit)", "" ], [ "17", "vodka", "vodka", "" ], [ "21", "orange", "orange (fruit)", "" ], [ "22", "juice", "juice", "" ], [ "25", "vodka", "vodka", "" ] ]
+  },
+  "5.2" : {
+    "text" : "hey Armar go to the kitchen table and take the green cup then go to the dishwasher and put the cup in it",
+    "annotations" : [ [ "5", "kitchen", "kitchen", "" ], [ "6", "table", "table (furniture)", "" ], [ "11", "cup", "cup", "" ], [ "16", "dishwasher", "dishwasher", "" ], [ "20", "cup", "cup", "" ] ]
+  },
+  "5.3" : {
+    "text" : "hey Armar go to fridge and take the orange juice then bring it to me",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ] ]
+  },
+  "s7p09" : {
+    "text" : "Hey Armar can you get a plate from dishwasher and wash it\nand after get the instant meal from the fridge and put it on the plate and heat it up in the microwave and put it on the table",
+    "annotations" : [ [ "6", "plate", "plate (dishware)", "" ], [ "8", "dishwasher", "dishwasher", "" ], [ "17", "meal", "meal", "" ], [ "20", "fridge", "fridge", "refrigerator" ], [ "26", "plate", "plate (dishware)", "" ], [ "33", "microwave", "microwave", "" ], [ "39", "table", "table (furniture)", "" ] ]
+  },
+  "s7p08" : {
+    "text" : "Hey Armar I'm hungry please take eh a plate from the dishwasher and rinse it with water at the sink\nafterwards go to the fridge open the fridge and put the instant food you find into in there on to the plate\nclose the fridge and warm the plate in the eh microwave\ntherefore you have to open the door first\nafterwards when it's warm please bring it eh to me at the table",
+    "annotations" : [ [ "8", "plate", "plate (dishware)", "" ], [ "11", "dishwasher", "dishwasher", "" ], [ "16", "water", "water", "" ], [ "19", "sink", "sink", "" ], [ "24", "fridge", "fridge", "refrigerator" ], [ "27", "fridge", "fridge", "refrigerator" ], [ "32", "food", "food", "" ], [ "41", "plate", "plate (dishware)", "" ], [ "44", "fridge", "fridge", "refrigerator" ], [ "48", "plate", "plate (dishware)", "" ], [ "52", "microwave", "microwave", "" ], [ "59", "door", "door", "" ], [ "73", "table", "table (furniture)", "" ] ]
+  },
+  "9.1" : {
+    "text" : "Please go to the kitchen table and pick up the popcorn bag and bring it to me",
+    "annotations" : [ [ "4", "kitchen", "kitchen", "" ], [ "5", "table", "table (furniture)", "" ], [ "10", "popcorn", "popcorn", "" ], [ "11", "bag", "bag", "" ] ]
+  },
+  "s7p07" : {
+    "text" : "Go to the dishwasher and take out any plate then go to the sink and wash the plate\ngo to the fridge and open it\ntake an instant meal and put it on the plate\ngo to the microwave open it and put the plate inside\nactivate the microwave\nafter it's done open it take out the plate and go to the table\nput the plate onto the table",
+    "annotations" : [ [ "3", "dishwasher", "dishwasher", "" ], [ "8", "plate", "plate (dishware)", "" ], [ "13", "sink", "sink", "" ], [ "17", "plate", "plate (dishware)", "" ], [ "21", "fridge", "fridge", "refrigerator" ], [ "28", "meal", "meal", "" ], [ "34", "plate", "plate (dishware)", "" ], [ "38", "microwave", "microwave", "" ], [ "44", "plate", "plate (dishware)", "" ], [ "48", "microwave", "microwave", "" ], [ "57", "plate", "plate (dishware)", "" ], [ "62", "table", "table (furniture)", "" ], [ "65", "plate", "plate (dishware)", "" ], [ "68", "table", "table (furniture)", "" ] ]
+  },
+  "9.2" : {
+    "text" : "Please go to the kitchen table and pick up the green cup take it to the dishwasher and put it in the upper shelf afterwards close the dishwasher",
+    "annotations" : [ [ "4", "kitchen", "kitchen", "" ], [ "5", "table", "table (furniture)", "" ], [ "11", "cup", "cup", "" ], [ "16", "dishwasher", "dishwasher", "" ], [ "23", "shelf", "shelf (storage)", "" ], [ "27", "dishwasher", "dishwasher", "" ] ]
+  },
+  "16.3" : {
+    "text" : "Armar go to the fridge uhm take the orange juice from it and give it to me",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "8", "orange", "orange (fruit)", "" ], [ "9", "juice", "juice", "" ] ]
+  },
+  "s7p06" : {
+    "text" : "Ok Armar please take a plate from the dishwasher wash it and fill it with instant food from the fridge\nthen warm it and put it on the table",
+    "annotations" : [ [ "5", "plate", "plate (dishware)", "" ], [ "8", "dishwasher", "dishwasher", "" ], [ "16", "food", "food", "" ], [ "19", "fridge", "fridge", "refrigerator" ], [ "28", "table", "table (furniture)", "" ] ]
+  },
+  "9.3" : {
+    "text" : "Go to the fridge and open the door take out the orange juice and close the door again bring it to me",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "7", "door", "door", "" ], [ "11", "orange", "orange (fruit)", "" ], [ "12", "juice", "juice", "" ], [ "16", "door", "door", "" ] ]
+  },
+  "16.2" : {
+    "text" : "armar go to the table take the green cup put it into the dishwasher close the dishwasher",
+    "annotations" : [ [ "4", "table", "table (furniture)", "" ], [ "8", "cup", "cup", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "16", "dishwasher", "dishwasher", "" ] ]
+  },
+  "16.1" : {
+    "text" : "Armar go to the table and give me the popcorn bag",
+    "annotations" : [ [ "4", "table", "table (furniture)", "" ], [ "9", "popcorn", "popcorn", "" ], [ "10", "bag", "bag", "" ] ]
+  },
+  "s7p04" : {
+    "text" : "Hello Armar i want you to prepare a meal for me\nah therefore you go to the dishwasher take out any of the plates then you go to the sink and wash it ahm then you put the plate\n on the table and you go to the fridge you open the fridge and take out the instant meal from the fridge and you close the fridge\n  again you go to the table and put the instant meal on the plate you\n   just washed\nah then you take the plate with the meal and go to the microwave open the microwave put in the meal close the microwave heat up the meal\n ahm take out the meal from the microwave and bring it to the table and eh yah put it there",
+    "annotations" : [ [ "8", "meal", "meal", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "23", "plates", "plate (dishware)", "" ], [ "29", "sink", "sink", "" ], [ "38", "plate", "plate (dishware)", "" ], [ "41", "table", "table (furniture)", "" ], [ "47", "fridge", "fridge", "refrigerator" ], [ "51", "fridge", "fridge", "refrigerator" ], [ "57", "meal", "meal", "" ], [ "60", "fridge", "fridge", "refrigerator" ], [ "65", "fridge", "fridge", "refrigerator" ], [ "71", "table", "table (furniture)", "" ], [ "76", "meal", "meal", "" ], [ "79", "plate", "plate (dishware)", "" ], [ "88", "plate", "plate (dishware)", "" ], [ "91", "meal", "meal", "" ], [ "96", "microwave", "microwave", "" ], [ "99", "microwave", "microwave", "" ], [ "103", "meal", "meal", "" ], [ "106", "microwave", "microwave", "" ], [ "110", "meal", "meal", "" ], [ "115", "meal", "meal", "" ], [ "118", "microwave", "microwave", "" ], [ "124", "table", "table (furniture)", "" ] ]
+  },
+  "s7p05a" : {
+    "text" : "Hey Armar I'm hungry so eh please eh take the plates from the dishwasher and eh fill it with the instant meal from the fridge\nso go eh go to the fridge open the door take the instant meal and fill it to the plates and then eh do this into the microwave and microwave it five minutes\nthen bring it to me",
+    "annotations" : [ [ "10", "plates", "plate (dishware)", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "21", "meal", "meal", "" ], [ "24", "fridge", "fridge", "refrigerator" ], [ "31", "fridge", "fridge", "refrigerator" ], [ "34", "door", "door", "" ], [ "38", "meal", "meal", "" ], [ "44", "plates", "plate (dishware)", "" ], [ "52", "microwave", "microwave", "" ], [ "54", "microwave", "microwave", "" ], [ "57", "minutes", "minute", "" ] ]
+  },
+  "s7p05b" : {
+    "text" : "Hey Armar ah please take the plates eh from the dishwasher and clean it then fill it with the instant meal from the fridge\nso go to the fridge open the door take the instant meal and fill it to into the plates then take the plates and eh bring it to the microwave microwave it five minutes\nafterwards bring its bring it to me",
+    "annotations" : [ [ "6", "plates", "plate (dishware)", "" ], [ "10", "dishwasher", "dishwasher", "" ], [ "20", "meal", "meal", "" ], [ "23", "fridge", "fridge", "refrigerator" ], [ "28", "fridge", "fridge", "refrigerator" ], [ "31", "door", "door", "" ], [ "35", "meal", "meal", "" ], [ "42", "plates", "plate (dishware)", "" ], [ "46", "plates", "plate (dishware)", "" ], [ "53", "microwave", "microwave", "" ], [ "57", "minutes", "minute", "" ] ]
+  },
+  "23.3" : {
+    "text" : "Hey armar I am thirsty could you bring me some orange juice from the fridge thank you",
+    "annotations" : [ [ "10", "orange", "orange (fruit)", "" ], [ "11", "juice", "juice", "" ], [ "14", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "23.2" : {
+    "text" : "Hey armar could you please put the green cup from the table into the dishwasher and turn it on thank you",
+    "annotations" : [ [ "8", "cup", "cup", "" ], [ "11", "table", "table (furniture)", "" ], [ "14", "dishwasher", "dishwasher", "" ] ]
+  },
+  "23.1" : {
+    "text" : "Hey Armar i need some popcorn could you please bring me some popcorn thank you",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "12", "popcorn", "popcorn", "" ] ]
+  },
+  "27.3" : {
+    "text" : "Hello Armar please open the fridge and bring me the orange juice",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "10", "orange", "orange (fruit)", "" ], [ "11", "juice", "juice", "" ] ]
+  },
+  "27.2" : {
+    "text" : "Hello Armar please put the green cup into the dishwasher please close the dishwasher",
+    "annotations" : [ [ "6", "cup", "cup", "" ], [ "9", "dishwasher", "dishwasher", "" ], [ "13", "dishwasher", "dishwasher", "" ] ]
+  },
+  "27.1" : {
+    "text" : "Hello Armar please bring me the popcorn from the table",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "s6p10" : {
+    "text" : "Go to the fridge open the fridge door then take the water bottle out close the fridge door then go to the table and open the water bottle\nfill the green cup with the water\nand then bring the cup to me\ngo to the dishwasher ahm take the two red cups out of the dishwasher and put them on the cupboard",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "6", "fridge", "fridge", "refrigerator" ], [ "7", "door", "door", "" ], [ "11", "water", "water", "" ], [ "12", "bottle", "bottle", "" ], [ "16", "fridge", "fridge", "refrigerator" ], [ "17", "door", "door", "" ], [ "22", "table", "table (furniture)", "" ], [ "26", "water", "water", "" ], [ "27", "bottle", "bottle", "" ], [ "31", "cup", "cup", "" ], [ "34", "water", "water", "" ], [ "39", "cup", "cup", "" ], [ "45", "dishwasher", "dishwasher", "" ], [ "51", "cups", "cup", "" ], [ "55", "dishwasher", "dishwasher", "" ], [ "61", "cupboard", "cupboard", "" ] ]
+  },
+  "15.1" : {
+    "text" : "go to the table and grab the popcorn bag",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "7", "popcorn", "popcorn", "" ], [ "8", "bag", "bag", "" ] ]
+  },
+  "34.3" : {
+    "text" : "Armar bring me the orange juice it is in the fridge",
+    "annotations" : [ [ "4", "orange", "orange (fruit)", "" ], [ "5", "juice", "juice", "" ], [ "10", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "11.3" : {
+    "text" : "Hey Armar go to the fridge open the fridge take the orange juice close the fridge and then bring me the orange juice",
+    "annotations" : [ [ "5", "fridge", "fridge", "refrigerator" ], [ "8", "fridge", "fridge", "refrigerator" ], [ "11", "orange", "orange (fruit)", "" ], [ "12", "juice", "juice", "" ], [ "15", "fridge", "fridge", "refrigerator" ], [ "21", "orange", "orange (fruit)", "" ], [ "22", "juice", "juice", "" ] ]
+  },
+  "34.2" : {
+    "text" : "Armar get the green cup from the table and put it into the dishwasher",
+    "annotations" : [ [ "4", "cup", "cup", "" ], [ "7", "table", "table (furniture)", "" ], [ "13", "dishwasher", "dishwasher", "" ] ]
+  },
+  "11.2" : {
+    "text" : "Hey Armar please take the green cup open the dishwasher and put the green cup in the dishwasher and then close the dishwasher again",
+    "annotations" : [ [ "6", "cup", "cup", "" ], [ "9", "dishwasher", "dishwasher", "" ], [ "14", "cup", "cup", "" ], [ "17", "dishwasher", "dishwasher", "" ], [ "22", "dishwasher", "dishwasher", "" ] ]
+  },
+  "34.1" : {
+    "text" : "Armar bring me the popcorn from the table",
+    "annotations" : [ [ "4", "popcorn", "popcorn", "" ], [ "7", "table", "table (furniture)", "" ] ]
+  },
+  "11.1" : {
+    "text" : "Hey Armar please go to the kitchen table on the right side and hand me the popcorn",
+    "annotations" : [ [ "6", "kitchen", "kitchen", "" ], [ "7", "table", "table (furniture)", "" ], [ "16", "popcorn", "popcorn", "" ] ]
+  },
+  "30.3" : {
+    "text" : "Hi Armar bring me the orange juice from the fridge",
+    "annotations" : [ [ "5", "orange", "orange (fruit)", "" ], [ "6", "juice", "juice", "" ], [ "9", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "30.2" : {
+    "text" : "Hi Armar close the door of the dishwasher",
+    "annotations" : [ [ "4", "door", "door", "" ], [ "7", "dishwasher", "dishwasher", "" ] ]
+  },
+  "4.1" : {
+    "text" : "Hey Armar can you go to the table and grab me the popcorn bag please and then yeah can you bring it back to me",
+    "annotations" : [ [ "7", "table", "table (furniture)", "" ], [ "12", "popcorn", "popcorn", "" ], [ "13", "bag", "bag", "" ] ]
+  },
+  "30.1" : {
+    "text" : "Hi Armar bring me the popcorn from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "8", "table", "table (furniture)", "" ] ]
+  },
+  "4.2" : {
+    "text" : "Hey Armar can you please go to the table and grab the green cup and then can you go to the dishwasher put it in the dishwasher close the dishwasher and come back",
+    "annotations" : [ [ "8", "table", "table (furniture)", "" ], [ "13", "cup", "cup", "" ], [ "21", "dishwasher", "dishwasher", "" ], [ "26", "dishwasher", "dishwasher", "" ], [ "29", "dishwasher", "dishwasher", "" ] ]
+  },
+  "4.3" : {
+    "text" : "Hey Armar can you please go to the fridge open it grab me the orange juice and then close the fridge and bring the orange juice to me please",
+    "annotations" : [ [ "8", "fridge", "fridge", "refrigerator" ], [ "14", "orange", "orange (fruit)", "" ], [ "15", "juice", "juice", "" ], [ "20", "fridge", "fridge", "refrigerator" ], [ "24", "orange", "orange (fruit)", "" ], [ "25", "juice", "juice", "" ] ]
+  },
+  "19.3" : {
+    "text" : "please handle me the orange juice from the fridge",
+    "annotations" : [ [ "4", "orange", "orange (fruit)", "" ], [ "5", "juice", "juice", "" ], [ "8", "fridge", "fridge", "refrigerator" ] ]
+  },
+  "8.1" : {
+    "text" : "Hey Armar bring me the popcorn bag from the table",
+    "annotations" : [ [ "5", "popcorn", "popcorn", "" ], [ "6", "bag", "bag", "" ], [ "9", "table", "table (furniture)", "" ] ]
+  },
+  "19.2" : {
+    "text" : "can you please take the green cup from the table and put it in the dishwasher",
+    "annotations" : [ [ "6", "cup", "cup", "" ], [ "9", "table", "table (furniture)", "" ], [ "15", "dishwasher", "dishwasher", "" ] ]
+  },
+  "8.2" : {
+    "text" : "Hey Armar get the green cup from the table and put it in the dishwasher",
+    "annotations" : [ [ "5", "cup", "cup", "" ], [ "8", "table", "table (furniture)", "" ], [ "14", "dishwasher", "dishwasher", "" ] ]
+  },
+  "19.1" : {
+    "text" : "can you please give me the popcorn it is uhm in front of you on the table",
+    "annotations" : [ [ "6", "popcorn", "popcorn", "" ], [ "11", "front", "?", "" ], [ "16", "table", "table (furniture)", "" ] ]
+  },
+  "8.3" : {
+    "text" : "Hey Armar open the fridge get the orange juice and bring it to me",
+    "annotations" : [ [ "4", "fridge", "fridge", "refrigerator" ], [ "7", "orange", "orange (fruit)", "" ], [ "8", "juice", "juice", "" ] ]
+  },
+  "15.3" : {
+    "text" : "go to the fridge open it if it is closed searched the orange juice and grab it pull it out of the fridge and close the door",
+    "annotations" : [ [ "3", "fridge", "fridge", "refrigerator" ], [ "12", "orange", "orange (fruit)", "" ], [ "13", "juice", "juice", "" ], [ "22", "fridge", "fridge", "refrigerator" ], [ "26", "door", "door", "" ] ]
+  },
+  "15.2" : {
+    "text" : "go to the table grab the green cup turn and go to the dishwasher if it is closed please open it find a free place put the green cup into it and close the dishwasher",
+    "annotations" : [ [ "3", "table", "table (furniture)", "" ], [ "7", "cup", "cup", "" ], [ "13", "dishwasher", "dishwasher", "" ], [ "24", "place", "?", "" ], [ "28", "cup", "cup", "" ], [ "34", "dishwasher", "dishwasher", "" ] ]
+  }
+}
