@@ -1,7 +1,7 @@
 /**
  *
  */
-package edu.kit.ipd.parse.wiki_wsd;
+package edu.kit.ipd.pronat.wiki_wsd;
 
 import java.io.File;
 import java.io.FileInputStream;

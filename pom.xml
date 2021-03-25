@@ -92,6 +92,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>edu.kit.ipd.pronat</groupId>
+            <artifactId>pre_pipeline_data_model</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
         </dependency>

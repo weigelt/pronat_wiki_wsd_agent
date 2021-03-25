@@ -1,4 +1,4 @@
-package edu.kit.ipd.parse.wiki_wsd;
+package edu.kit.ipd.pronat.wiki_wsd;
 
 import java.text.DecimalFormat;
 import java.util.HashMap;
@@ -7,6 +7,13 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import edu.kit.ipd.pronat.graph_builder.GraphBuilder;
+import edu.kit.ipd.pronat.ner.NERTagger;
+import edu.kit.ipd.pronat.prepipedatamodel.PrePipelineData;
+import edu.kit.ipd.pronat.prepipedatamodel.tools.StringToHypothesis;
+import edu.kit.ipd.pronat.shallow_nlp.ShallowNLP;
+import edu.kit.ipd.pronat.wiki_wsd.util.TestHelper;
+import edu.kit.ipd.pronat.wiki_wsd.util.Text;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.BeforeClass;
@@ -15,18 +22,11 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import edu.kit.ipd.parse.graphBuilder.GraphBuilder;
 import edu.kit.ipd.parse.luna.data.MissingDataException;
-import edu.kit.ipd.parse.luna.data.PrePipelineData;
 import edu.kit.ipd.parse.luna.graph.IGraph;
 import edu.kit.ipd.parse.luna.graph.INode;
 import edu.kit.ipd.parse.luna.pipeline.PipelineStageException;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
-import edu.kit.ipd.parse.luna.tools.StringToHypothesis;
-import edu.kit.ipd.parse.ner.NERTagger;
-import edu.kit.ipd.parse.shallownlp.ShallowNLP;
-import edu.kit.ipd.parse.wiki_wsd.util.TestHelper;
-import edu.kit.ipd.parse.wiki_wsd.util.Text;
 
 /**
  * @author Jan Keim

@@ -1,7 +1,7 @@
 /**
  *
  */
-package edu.kit.ipd.parse.wiki_wsd.util;
+package edu.kit.ipd.pronat.wiki_wsd.util;
 
 import java.util.List;
 
@@ -9,6 +9,7 @@ import java.util.List;
  * This is an adapted version of the Text class in the CorefAnalyzer by Tobias
  * Hey
  *
+ * @author Sebastian Weigelt
  * @author Jan Keim
  *
  */

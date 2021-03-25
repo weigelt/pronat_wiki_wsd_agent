@@ -1,4 +1,4 @@
-package edu.kit.ipd.parse.wiki_wsd.util;
+package edu.kit.ipd.pronat.wiki_wsd.util;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -12,6 +12,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
  * This is an adapted version of the CorefTestHelper class in the CorefAnalyzer
  * by Tobias Hey
  *
+ * @author Sebastian Weigelt
  * @author Jan Keim
  *
  */

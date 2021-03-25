@@ -1,4 +1,4 @@
-package edu.kit.ipd.parse.wiki_wsd.util;
+package edu.kit.ipd.pronat.wiki_wsd.util;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,6 +16,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 /**
  * Converts the XML Korpus to JSON Korpus
  *
+ * @author Sebastian Weigelt
  * @author Dominik Fuchss
  *
  */
@@ -33,8 +34,6 @@ public class ConvertXMLToJSON {
 	/**
 	 * Get a new default object mapper for the project.
 	 *
-	 * @param indent
-	 *            indicator for indention
 	 * @return a new default object mapper
 	 */
 	private static ObjectMapper getObjectMapper() {
