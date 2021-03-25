@@ -1,4 +1,4 @@
-package edu.kit.ipd.parse.wikiWSD.util;
+package edu.kit.ipd.parse.wiki_wsd.util;
 
 import java.io.File;
 import java.io.IOException;

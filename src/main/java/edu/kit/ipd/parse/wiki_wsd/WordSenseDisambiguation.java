@@ -1,7 +1,7 @@
 /**
  *
  */
-package edu.kit.ipd.parse.wikiWSD;
+package edu.kit.ipd.parse.wiki_wsd;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -18,7 +18,6 @@ import org.slf4j.LoggerFactory;
 
 import edu.kit.ipd.parse.luna.agent.AbstractAgent;
 import edu.kit.ipd.parse.luna.data.MissingDataException;
-import edu.kit.ipd.parse.luna.data.PrePipelineData;
 import edu.kit.ipd.parse.luna.graph.IArc;
 import edu.kit.ipd.parse.luna.graph.IArcType;
 import edu.kit.ipd.parse.luna.graph.INode;
@@ -26,9 +25,9 @@ import edu.kit.ipd.parse.luna.graph.INodeType;
 import edu.kit.ipd.parse.luna.graph.Pair;
 import edu.kit.ipd.parse.luna.graph.ParseGraph;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
-import edu.kit.ipd.parse.wikiWSDClassifier.Classification;
-import edu.kit.ipd.parse.wikiWSDClassifier.ClassifierService;
-import edu.kit.ipd.parse.wikiWSDClassifier.SerializationHelper;
+import edu.kit.ipd.pronat.wiki_wsd.classifier.Classification;
+import edu.kit.ipd.pronat.wiki_wsd.classifier.ClassifierService;
+import edu.kit.ipd.pronat.wiki_wsd.classifier.SerializationHelper;
 import weka.classifiers.Classifier;
 import weka.core.DenseInstance;
 import weka.core.Instance;
@@ -37,6 +36,7 @@ import weka.core.Stopwords;
 import weka.filters.Filter;
 
 /**
+ * @author Sebastian Weigelt
  * @author Jan Keim
  *
  */
@@ -186,15 +186,6 @@ public class WordSenseDisambiguation extends AbstractAgent {
 				// }
 			}
 		}
-	}
-
-	public void exec(PrePipelineData ppd) {
-		try {
-			graph = ppd.getGraph();
-		} catch (MissingDataException e) {
-			e.printStackTrace();
-		}
-		exec();
 	}
 
 	private static void addClassificationToGraph(INode node, Classification clazz) {

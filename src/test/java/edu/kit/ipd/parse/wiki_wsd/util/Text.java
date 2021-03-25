@@ -1,7 +1,7 @@
 /**
  *
  */
-package edu.kit.ipd.parse.wikiWSD.util;
+package edu.kit.ipd.parse.wiki_wsd.util;
 
 import java.util.List;
 
