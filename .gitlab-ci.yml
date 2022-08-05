@@ -1,8 +1,0 @@
-master:
-    script:
-        - mvn source:jar deploy -B -DskipTests
-    tags:
-        - mvn
-    only:
-        - master
-
